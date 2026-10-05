@@ -1,0 +1,4002 @@
+[
+    {
+        "name": "Peanut Butter Banana Smoothie",
+        "description": "Smooth and creamy smoothie made with peanut butter and banana."
+    },
+    {
+        "name": "Smartphone Car Mount with Wireless Charging",
+        "description": "Secure phone mount that wirelessly charges your device while driving."
+    },
+    {
+        "name": "Cold Brew Coffee Concentrate",
+        "description": "Rich and smooth cold brew coffee concentrate, just add water or milk."
+    },
+    {
+        "name": "Lemon Garlic Shrimp",
+        "description": "Marinated shrimp in a garlic and lemon sauce, perfect for grilling."
+    },
+    {
+        "name": "Sweet Cherry Tomatoes",
+        "description": "Fresh and juicy cherry tomatoes for salads and snacking."
+    },
+    {
+        "name": "Pumpkin Spice Pancake Mix",
+        "description": "Pancake mix infused with seasonal pumpkin spice flavor."
+    },
+    {
+        "name": "Cork Yoga Mat",
+        "description": "Eco-friendly yoga mat made from sustainable materials."
+    },
+    {
+        "name": "Digital Wireless Meat Thermometer",
+        "description": "Bluetooth thermometer that alerts you when your meat is done."
+    },
+    {
+        "name": "Tortilla Chips",
+        "description": "Crispy tortilla chips, perfect for dipping."
+    },
+    {
+        "name": "Coconut Curry Lentil Soup",
+        "description": "A hearty soup made with lentils, coconut milk, and a blend of spices for a tropical flavor."
+    },
+    {
+        "name": "LED Flashlight with Rechargeable Batteries",
+        "description": "Bright flashlight with rechargeable batteries included."
+    },
+    {
+        "name": "Classic Caesar Salad Kit",
+        "description": "Everything you need for a fresh and delicious Caesar salad."
+    },
+    {
+        "name": "LED Desk Lamp with USB Charging",
+        "description": "Stylish desk lamp featuring a USB charging port."
+    },
+    {
+        "name": "Compact Electric Kettle",
+        "description": "Quick-boiling kettle for home and office use."
+    },
+    {
+        "name": "Blueberry Oatmeal Cups",
+        "description": "Instant oatmeal cups with blueberries for an easy breakfast."
+    },
+    {
+        "name": "Chili Garlic Sauce",
+        "description": "Spicy sauce made with chili peppers and garlic, great for stir-frying."
+    },
+    {
+        "name": "Chocolate Peanut Butter Cups",
+        "description": "Delicious dark chocolate cups filled with creamy peanut butter."
+    },
+    {
+        "name": "Inspirational Wall Art",
+        "description": "Quote wall art to inspire and motivate."
+    },
+    {
+        "name": "Zucchini Noodles",
+        "description": "Spiralized zucchini, a healthy alternative to pasta."
+    },
+    {
+        "name": "Hummus Variety Pack",
+        "description": "A selection of different flavored hummus, great for snacking."
+    },
+    {
+        "name": "Mini Meatballs",
+        "description": "Frozen mini meatballs that are great as a snack or in pasta dishes."
+    },
+    {
+        "name": "DIY Candle Making Kit",
+        "description": "Everything you need to make your own candles."
+    },
+    {
+        "name": "Tomato Sauce",
+        "description": "Rich and flavorful tomato sauce for pasta or pizza."
+    },
+    {
+        "name": "Basic V-Neck T-Shirt",
+        "description": "A staple v-neck t-shirt that pairs well with anything."
+    },
+    {
+        "name": "Hand Mixer",
+        "description": "Compact hand mixer for easy baking."
+    },
+    {
+        "name": "Smartphone UV Sanitizer",
+        "description": "UV light sanitizer for phones and small items."
+    },
+    {
+        "name": "Cauliflower Crust Pizza",
+        "description": "A gluten-free pizza crust made from cauliflower."
+    },
+    {
+        "name": "Organic Tomato Soup",
+        "description": "Hearty tomato soup made from organic ingredients."
+    },
+    {
+        "name": "Inflatable Paddle Board",
+        "description": "Lightweight and portable paddle board for water sports."
+    },
+    {
+        "name": "Chili Garlic Sauce",
+        "description": "Spicy sauce made with chili peppers and garlic, great for stir-frying."
+    },
+    {
+        "name": "Mini Projector for Smartphones",
+        "description": "Compact and portable projector for watching videos anywhere."
+    },
+    {
+        "name": "Overnight Hiking Backpack",
+        "description": "Durable backpack with ample storage for outdoor adventures."
+    },
+    {
+        "name": "Banana Nut Muffins",
+        "description": "Moist, fluffy muffins packed with bananas and walnuts for a delightful breakfast or snack."
+    },
+    {
+        "name": "Potting Soil",
+        "description": "Premium potting soil for indoor plants."
+    },
+    {
+        "name": "Legging Pants",
+        "description": "Comfortable and stretchy legging pants perfect for workouts or daily wear."
+    },
+    {
+        "name": "Beef Stew Meat",
+        "description": "Tender beef chunks for slow-cooked stews."
+    },
+    {
+        "name": "Ergonomic Mouse Pad with Wrist Support",
+        "description": "Comfortable mouse pad designed to reduce wrist strain."
+    },
+    {
+        "name": "Board Game Storage",
+        "description": "Organize your board games with this storage bin."
+    },
+    {
+        "name": "Electric Blanket",
+        "description": "Extra soft electric blanket with adjustable heat settings."
+    },
+    {
+        "name": "Sea Salt Tortilla Chips",
+        "description": "Crunchy tortilla chips with a hint of sea salt, great with dips."
+    },
+    {
+        "name": "Thyme",
+        "description": "Fresh thyme, perfect for seasoning dishes."
+    },
+    {
+        "name": "Chili Lime Seasoning",
+        "description": "Zesty seasoning great for tacos and grilling."
+    },
+    {
+        "name": "Pet Reflective Vest",
+        "description": "Safety vest for pets during nighttime walks."
+    },
+    {
+        "name": "Non-Stick Baking Sheet",
+        "description": "Durable baking sheet coated for easy food release."
+    },
+    {
+        "name": "Coconut Rice",
+        "description": "Fluffy rice cooked with coconut milk for a tropical twist."
+    },
+    {
+        "name": "Saffron Rice Mix",
+        "description": "Flavorful rice mix with saffron and spices."
+    },
+    {
+        "name": "Solar Power Bank",
+        "description": "Eco-friendly power bank that charges via sunlight."
+    },
+    {
+        "name": "Dried Mango Slices",
+        "description": "Sweet and chewy dried mango slices, perfect for snacking."
+    },
+    {
+        "name": "Dark Chocolate Covered Pretzels",
+        "description": "Crunchy pretzels dipped in rich dark chocolate."
+    },
+    {
+        "name": "Dark Chocolate Raisins",
+        "description": "Juicy raisins coated in rich dark chocolate."
+    },
+    {
+        "name": "Inflatable Pool Float",
+        "description": "Fun inflatable float for lounging in the pool or beach."
+    },
+    {
+        "name": "Spicy Salsa Verde",
+        "description": "Green salsa with a spicy kick, great for dipping."
+    },
+    {
+        "name": "Chocolate Chip Muffins",
+        "description": "Fresh baked chocolate chip muffins for breakfast."
+    },
+    {
+        "name": "Sour Cream",
+        "description": "Tangy sour cream, perfect for dips and toppings."
+    },
+    {
+        "name": "Classic Baseball Cap",
+        "description": "A timeless baseball cap that adds a sporty touch to any outfit."
+    },
+    {
+        "name": "Pet Water Fountain",
+        "description": "Automatic water fountain for pets with filtration."
+    },
+    {
+        "name": "Dried Mango Slices",
+        "description": "Sweet and chewy dried mango slices, perfect for snacking."
+    },
+    {
+        "name": "Crafting Kit",
+        "description": "Complete crafting kit for kids and adults."
+    },
+    {
+        "name": "Portable Air Purifier",
+        "description": "Compact air purifier to improve indoor air quality."
+    },
+    {
+        "name": "Wireless Game Controller",
+        "description": "Ergonomic wireless controller for gaming consoles."
+    },
+    {
+        "name": "Survival Gear Kit",
+        "description": "Essential survival gear kit for emergencies."
+    },
+    {
+        "name": "Pumpkin Spice Latte Mix",
+        "description": "Instant mix for delicious pumpkin spice lattes at home."
+    },
+    {
+        "name": "Peach Preserves",
+        "description": "Sweet and fruity peach preserves, perfect for spreading on toast."
+    },
+    {
+        "name": "Lemon Garlic Marinade",
+        "description": "A zesty marinade made with lemon juice and garlic, ideal for chicken or fish."
+    },
+    {
+        "name": "Gingerbread House Kit",
+        "description": "Everything you need to build a festive gingerbread house."
+    },
+    {
+        "name": "Crispy Kale Chips",
+        "description": "Baked kale chips seasoned for a healthy, crunchy snack."
+    },
+    {
+        "name": "Eco-Friendly Notepad",
+        "description": "Notepad made from recycled paper for sustainable note-taking."
+    },
+    {
+        "name": "Electric Wine Opener",
+        "description": "Rechargeable electric wine opener for effortless uncorking."
+    },
+    {
+        "name": "Vegetarian Stir Fry Sauce",
+        "description": "Flavorful sauce perfect for stir-frying vegetables and tofu."
+    },
+    {
+        "name": "Almond Crunch Granola Bars",
+        "description": "Nutty granola bars for healthy snacking."
+    },
+    {
+        "name": "Mini Electric Kettle",
+        "description": "Quick boiling kettle for small kitchens and dorms."
+    },
+    {
+        "name": "Portable UV Sterilizer",
+        "description": "Compact sterilizer for disinfecting small items."
+    },
+    {
+        "name": "Bike Repair Tool Kit",
+        "description": "Essential tools for bike maintenance and repair."
+    },
+    {
+        "name": "Maple Pecan Pancake Mix",
+        "description": "A fluffy pancake mix infused with maple and pecans, perfect for a hearty breakfast."
+    },
+    {
+        "name": "Almond Butter Cups",
+        "description": "Rich chocolate cups filled with almond butter, a delicious treat."
+    },
+    {
+        "name": "Creative Puzzle Game",
+        "description": "Challenging and fun puzzle game for all ages."
+    },
+    {
+        "name": "Maple Almond Yogurt",
+        "description": "Creamy yogurt made with maple and almond flavors."
+    },
+    {
+        "name": "Winter Knit Beanie",
+        "description": "Cozy beanie hat to keep your head warm in the cold."
+    },
+    {
+        "name": "Sesame Noodles",
+        "description": "Chilled noodles dressed in sesame sauce, ready to eat."
+    },
+    {
+        "name": "Pet Travel Bed",
+        "description": "Portable bed for pets while traveling."
+    },
+    {
+        "name": "Foot Spa Bath Massager",
+        "description": "Relax and soothe tired feet with this foot spa."
+    },
+    {
+        "name": "Pasta Maker Machine",
+        "description": "Manual pasta maker for creating fresh pasta at home."
+    },
+    {
+        "name": "Pasta Maker Machine",
+        "description": "Manual pasta maker for creating fresh pasta at home."
+    },
+    {
+        "name": "Multifunctional Pocket Tool",
+        "description": "Compact pocket tool with various built-in functions."
+    },
+    {
+        "name": "Infrared Thermometer Gun",
+        "description": "Non-contact thermometer for quick and easy temperature readings."
+    },
+    {
+        "name": "Garden Tool Belt",
+        "description": "Handy belt for carrying garden tools while working."
+    },
+    {
+        "name": "Cold Brew Coffee Maker",
+        "description": "Brews coffee with a smooth flavor without bitterness."
+    },
+    {
+        "name": "Multi-Function Smartphone Holder",
+        "description": "Versatile holder that can be used on desks, cars, and more."
+    },
+    {
+        "name": "Compact Hair Dryer",
+        "description": "Lightweight hair dryer with multiple speed settings."
+    },
+    {
+        "name": "Compact Hair Dryer",
+        "description": "Lightweight hair dryer with multiple speed settings."
+    },
+    {
+        "name": "Solar Garden Lights",
+        "description": "Energy-efficient lights that charge during the day and illuminate at night."
+    },
+    {
+        "name": "Non-Stick Crepe Pan",
+        "description": "Perfectly designed pan for making crepes and pancakes."
+    },
+    {
+        "name": "Personal Security Alarm Keychain",
+        "description": "Handy keychain that emits a loud alarm for personal safety."
+    },
+    {
+        "name": "Lentil Vegetable Curry",
+        "description": "A flavorful lentil curry cooked with vegetables and spices."
+    },
+    {
+        "name": "Coconut Cream Pie",
+        "description": "Delicious pie filled with coconut cream and topped with whipped cream."
+    },
+    {
+        "name": "Mashed Sweet Potatoes",
+        "description": "Creamy mashed sweet potatoes with a hint of cinnamon."
+    },
+    {
+        "name": "Wireless HDMI Transmitter",
+        "description": "Stream HD video wirelessly to your TV."
+    },
+    {
+        "name": "High-Waisted Skirt",
+        "description": "Chic high-waisted skirt, perfect for professional or casual settings."
+    },
+    {
+        "name": "Avocado Oil",
+        "description": "A healthy oil extracted from avocados, ideal for frying and salads."
+    },
+    {
+        "name": "Electric Hot Water Dispenser",
+        "description": "Instant hot water dispenser for tea and cooking."
+    },
+    {
+        "name": "Gaming Mousepad",
+        "description": "Oversized gaming mousepad with smooth surface."
+    },
+    {
+        "name": "Ergonomic Gaming Chair",
+        "description": "Comfortable gaming chair for long hours of play."
+    },
+    {
+        "name": "Adjustable Dumbbells",
+        "description": "Space-saving adjustable dumbbells for strength training."
+    },
+    {
+        "name": "Italian Herbal Seasoning",
+        "description": "A fragrant blend of Italian herbs for pasta sauces and marinades."
+    },
+    {
+        "name": "Pear and Gorgonzola Salad",
+        "description": "Fresh salad with pears, gorgonzola cheese, and nuts, perfect for lunch."
+    },
+    {
+        "name": "Coconut Curry Lentils",
+        "description": "Lentils cooked in a coconut curry for a hearty meal."
+    },
+    {
+        "name": "Insulated Lunch Box",
+        "description": "Durable lunch box designed to keep food fresh and cool."
+    },
+    {
+        "name": "Almond Joy Protein Bars",
+        "description": "Chocolate coconut protein bars inspired by the classic candy bar."
+    },
+    {
+        "name": "Pet Waterer with Filtration",
+        "description": "Automatic waterer that filters and provides fresh drinking water for pets."
+    },
+    {
+        "name": "Chocolate Covered Pretzels",
+        "description": "Crunchy pretzels coated in rich chocolate, a sweet treat."
+    },
+    {
+        "name": "Coconut Milk",
+        "description": "Rich coconut milk for curries and desserts."
+    },
+    {
+        "name": "Incense Holder",
+        "description": "Ceramic incense holder for a calming atmosphere."
+    },
+    {
+        "name": "Organic Coconut Flakes",
+        "description": "Unsweetened coconut flakes for baking and snacking."
+    },
+    {
+        "name": "Gardening Gloves",
+        "description": "Durable gardening gloves with reinforced fingertips."
+    },
+    {
+        "name": "Blackberry Compote",
+        "description": "Sweet blackberry compote, perfect for topping desserts."
+    },
+    {
+        "name": "Luxury Memory Foam Mattress Topper",
+        "description": "Adds extra comfort to your mattress for a better night's sleep."
+    },
+    {
+        "name": "Solar String Lights",
+        "description": "Eco-friendly string lights for outdoor decor."
+    },
+    {
+        "name": "Multi-Tool",
+        "description": "Versatile multi-tool with 15 different functions."
+    },
+    {
+        "name": "Maple Almond Butter",
+        "description": "Creamy almond butter sweetened with maple syrup for a delicious spread."
+    },
+    {
+        "name": "Low-Fat Yogurt",
+        "description": "Creamy yogurt with probiotics, available in various flavors."
+    },
+    {
+        "name": "Outdoor Portable Fire Pit",
+        "description": "Compact fire pit for campfires and gatherings."
+    },
+    {
+        "name": "Organic Black Beans",
+        "description": "Versatile canned black beans, ready to add to any dish."
+    },
+    {
+        "name": "Magnetic Spice Containers",
+        "description": "Set of magnetic jars for convenient spice organization."
+    },
+    {
+        "name": "Smart Doorbell",
+        "description": "Wi-Fi enabled doorbell with HD camera and two-way audio."
+    },
+    {
+        "name": "Pizza Stone",
+        "description": "Ceramic pizza stone for homemade pizzas."
+    },
+    {
+        "name": "Berry Smoothie Mix",
+        "description": "Frozen mix for quick berry smoothies."
+    },
+    {
+        "name": "Turmeric Ginger Tea",
+        "description": "A soothing tea blend with turmeric and ginger for wellness."
+    },
+    {
+        "name": "Rechargeable Hand Warmer",
+        "description": "Portable rechargeable warmer for cold days."
+    },
+    {
+        "name": "Collapsible Folding Chair",
+        "description": "Lightweight and portable chair for camping or events."
+    },
+    {
+        "name": "Cauliflower Pizza Crust",
+        "description": "Healthy pizza crust made from cauliflower"
+    },
+    {
+        "name": "Gardening Tools Set",
+        "description": "Complete set of gardening tools for outdoor tasks."
+    },
+    {
+        "name": "Emergency Preparedness Kit",
+        "description": "Complete kit for emergency situations including food and water."
+    },
+    {
+        "name": "Organic Cucumber",
+        "description": "Fresh organic cucumber perfect for salads or snacking."
+    },
+    {
+        "name": "Outdoor Camping Hammock",
+        "description": "Lightweight and durable hammock for relaxing in nature."
+    },
+    {
+        "name": "Digital Drawing Tablet",
+        "description": "Tablet for digital drawing and illustration work."
+    },
+    {
+        "name": "Fitness Resistance Bands Set",
+        "description": "Variety of bands suitable for all fitness levels."
+    },
+    {
+        "name": "Sweet and Sour Sauce",
+        "description": "Perfect dipping sauce or stir-fry addition for a sweet and tangy flavor."
+    },
+    {
+        "name": "Spicy Beef Taco Mix",
+        "description": "Easy mix for making spicy beef tacos."
+    },
+    {
+        "name": "Cranberry Orange Juice",
+        "description": "Refreshing juice blend of cranberries and oranges."
+    },
+    {
+        "name": "Gingerbread House Kit",
+        "description": "Everything you need to build a festive gingerbread house."
+    },
+    {
+        "name": "Over-the-Door Shoe Organizer",
+        "description": "Space-saving solution to store shoes and keep them organized."
+    },
+    {
+        "name": "Instant Read Meat Thermometer",
+        "description": "Fast and accurate thermometer for grilling and cooking."
+    },
+    {
+        "name": "Savory Oats",
+        "description": "Instant oats with a savory twist, such as herbs and spices."
+    },
+    {
+        "name": "Oversized Denim Shirt",
+        "description": "A trendy oversized denim shirt perfect for layering."
+    },
+    {
+        "name": "Vegetable Spring Rolls",
+        "description": "Crispy spring rolls filled with vegetables"
+    },
+    {
+        "name": "Lemon Herb Grilled Chicken",
+        "description": "Tender grilled chicken marinated in lemon herbs."
+    },
+    {
+        "name": "Garlic Herb Cream Cheese",
+        "description": "Spreadable cream cheese blended with garlic and herbs."
+    },
+    {
+        "name": "Peanut Butter Chocolate Clusters",
+        "description": "Delicious clusters of peanuts and chocolate for a sweet treat."
+    },
+    {
+        "name": "Pet Training Clicker",
+        "description": "Simple tool to train your pet with positive reinforcement."
+    },
+    {
+        "name": "Tuna Fish (canned)",
+        "description": "Wild-caught tuna in olive oil, perfect for salads."
+    },
+    {
+        "name": "Comfortable Jogger Pants",
+        "description": "Relaxed fit joggers made from soft fleece, ideal for lounging or workouts."
+    },
+    {
+        "name": "Wire Shelving Unit",
+        "description": "Adjustable shelving unit for home or garage storage."
+    },
+    {
+        "name": "Adjustable Dog Harness",
+        "description": "Comfortable and adjustable harness for dogs."
+    },
+    {
+        "name": "Creamy Garlic Mashed Potatoes",
+        "description": "Rich and buttery mashed potatoes with roasted garlic."
+    },
+    {
+        "name": "Compact Portable Grill",
+        "description": "Easy-to-use portable grill for barbecues."
+    },
+    {
+        "name": "Rice Pudding",
+        "description": "Creamy dessert made with rice and cinnamon."
+    },
+    {
+        "name": "Mango Chili Salsa",
+        "description": "A sweet and spicy salsa made with mangoes and a hint of chili, great with chips or grilled chicken."
+    },
+    {
+        "name": "Hiking Water Bottle with Filter",
+        "description": "8oz water bottle with built-in filter for clean drinking water."
+    },
+    {
+        "name": "Vegetable Broth",
+        "description": "Rich vegetable broth for soups and stews."
+    },
+    {
+        "name": "LED Camping Lantern with USB Charging",
+        "description": "Rechargeable lantern with multiple brightness settings for outdoors."
+    },
+    {
+        "name": "Greek Yogurt",
+        "description": "Creamy Greek yogurt packed with protein and probiotics."
+    },
+    {
+        "name": "Wildflower Honey",
+        "description": "Natural honey sourced from wildflowers."
+    },
+    {
+        "name": "LED Strip Lights with Remote Control",
+        "description": "Color-changing LED lights for home decoration with remote."
+    },
+    {
+        "name": "Cinnamon Roll Dough",
+        "description": "Ready-to-bake cinnamon roll dough for easy breakfasts."
+    },
+    {
+        "name": "Sweet Potato Fries",
+        "description": "Crispy sweet potato fries, a delicious side dish."
+    },
+    {
+        "name": "Ankle Boots",
+        "description": "Stylish leather ankle boots with a block heel, perfect for fall styling."
+    },
+    {
+        "name": "Spicy Tuna Sushi Kit",
+        "description": "Everything you need to make delicious spicy tuna rolls at home."
+    },
+    {
+        "name": "Oven Thermometer",
+        "description": "High-precision oven thermometer for accurate cooking."
+    },
+    {
+        "name": "Cinnamon Sugar Donuts",
+        "description": "Delicious mini donuts dusted with cinnamon sugar."
+    },
+    {
+        "name": "Portable Camping Stove",
+        "description": "Compact camp stove for outdoor cooking."
+    },
+    {
+        "name": "Maple Almond Butter",
+        "description": "Creamy almond butter sweetened with maple syrup for a delicious spread."
+    },
+    {
+        "name": "Oven-Baked Potato Chips",
+        "description": "Light and crispy baked potato chips in assorted flavors."
+    },
+    {
+        "name": "Ricotta Cheese",
+        "description": "Creamy ricotta cheese, great for cooking or making desserts."
+    },
+    {
+        "name": "Pet Water Fountain",
+        "description": "Automatic water fountain for pets with filtration."
+    },
+    {
+        "name": "Smartphone UV Sanitizer",
+        "description": "UV light sanitizer for phones and small items."
+    },
+    {
+        "name": "Solar Garden Lights",
+        "description": "Energy-efficient lights that charge during the day and illuminate at night."
+    },
+    {
+        "name": "Garlic Herb Marinade",
+        "description": "A savory marinade for meats, perfect for grilling."
+    },
+    {
+        "name": "Lentil Pasta",
+        "description": "Gluten-free pasta made from lentils, high in protein."
+    },
+    {
+        "name": "Yoga Strap",
+        "description": "Durable yoga strap for deeper stretches."
+    },
+    {
+        "name": "Relaxed Fit Henley Shirt",
+        "description": "A comfortable henley shirt made of soft cotton, perfect for casual outings."
+    },
+    {
+        "name": "Teriyaki Beef Jerky",
+        "description": "Savory and chewy beef jerky with teriyaki flavor."
+    },
+    {
+        "name": "Pet Hair Removal Roller",
+        "description": "Lint roller designed specifically for removing pet hair from furniture."
+    },
+    {
+        "name": "Smart Wi-Fi Light Bulbs",
+        "description": "Energy-efficient LED bulbs that can be controlled via smartphone."
+    },
+    {
+        "name": "Personalized Keychain",
+        "description": "Custom keychain with engraved text."
+    },
+    {
+        "name": "Organic Baby Carrots",
+        "description": "Fresh and crunchy baby carrots ready for snacking."
+    },
+    {
+        "name": "Chocolate Protein Powder",
+        "description": "Rich chocolate protein powder for smoothies and baking."
+    },
+    {
+        "name": "Weighted Jump Rope with Counter",
+        "description": "Jump rope that counts your jumps for tracking workouts."
+    },
+    {
+        "name": "Vegetable Broth",
+        "description": "Rich vegetable broth for soups and stews."
+    },
+    {
+        "name": "Maple Oatmeal",
+        "description": "Delicious maple-flavored oatmeal for a quick breakfast."
+    },
+    {
+        "name": "Chocolate Coconut Protein Balls",
+        "description": "No-bake protein balls with chocolate and coconut flavors."
+    },
+    {
+        "name": "Sushi Rice",
+        "description": "Short-grain sushi rice for perfect rolls."
+    },
+    {
+        "name": "Instant Pot",
+        "description": "7-in-1 multi-cooker for versatile cooking."
+    },
+    {
+        "name": "Italian Marinara Sauce",
+        "description": "Classic marinara sauce for pasta, pizza, or dipping."
+    },
+    {
+        "name": "Adjustable Kitchen Broom Stand",
+        "description": "Space-saving broom holder for organized cleaning supplies."
+    },
+    {
+        "name": "Creamy Ranch Dressing",
+        "description": "Classic ranch dressing for salads and dipping."
+    },
+    {
+        "name": "Sliced Turkey Breast",
+        "description": "Oven-roasted sliced turkey, perfect for sandwiches."
+    },
+    {
+        "name": "Backpacking Tent",
+        "description": "Lightweight and durable tent for camping trips."
+    },
+    {
+        "name": "Silicone Baking Mat",
+        "description": "Non-stick baking mat for easy cooking and cleanup."
+    },
+    {
+        "name": "Organic Green Tea",
+        "description": "Delicate green tea leaves for a refreshing beverage."
+    },
+    {
+        "name": "Personal Safety Alarm",
+        "description": "Compact alarm for personal safety and security."
+    },
+    {
+        "name": "Gluten-Free Biscuits",
+        "description": "Fluffy biscuits made without gluten"
+    },
+    {
+        "name": "Cheese Stuffed Jalapenos",
+        "description": "Spicy jalapenos stuffed with cheese, ideal for appetizers."
+    },
+    {
+        "name": "Organic Honeycrisp Apples",
+        "description": "Sweet and crisp apples, perfect for snacking."
+    },
+    {
+        "name": "Professional Chef Knife",
+        "description": "High-carbon stainless steel chef knife for precision cutting."
+    },
+    {
+        "name": "Pineapple Chunks (canned)",
+        "description": "Sweet pineapple chunks in syrup."
+    },
+    {
+        "name": "Wooden Children's Play Kitchen",
+        "description": "Interactive kitchen set for imaginative play."
+    },
+    {
+        "name": "Frozen Burritos",
+        "description": "Easy-to-heat frozen burritos for a quick meal."
+    },
+    {
+        "name": "Lemon Garlic Marinade",
+        "description": "A zesty marinade made with lemon juice and garlic, ideal for chicken or fish."
+    },
+    {
+        "name": "Lemon Dill Salmon",
+        "description": "Salmon fillets seasoned with lemon and dill, perfect for grilling."
+    },
+    {
+        "name": "Indoor Grill",
+        "description": "Electric indoor grill for quick meals."
+    },
+    {
+        "name": "Non-Stick Baking Sheets",
+        "description": "Set of baking sheets for effortless baking."
+    },
+    {
+        "name": "Roasted Red Pepper Hummus",
+        "description": "A creamy and flavorful hummus made with roasted red peppers."
+    },
+    {
+        "name": "Tea Set with Infuser",
+        "description": "Elegant tea set that includes an infuser for brewing."
+    },
+    {
+        "name": "Waterproof Rain Boots",
+        "description": "Stay dry with these stylish waterproof rain boots."
+    },
+    {
+        "name": "Coconut Oil",
+        "description": "Versatile organic coconut oil for cooking and baking."
+    },
+    {
+        "name": "Spaghetti Sauce",
+        "description": "Rich spaghetti sauce, a perfect pasta sauce."
+    },
+    {
+        "name": "Smart Home Security Camera",
+        "description": "Wi-Fi camera with motion detection for home security."
+    },
+    {
+        "name": "Compact Folding Table",
+        "description": "Versatile folding table great for events or outdoor activities."
+    },
+    {
+        "name": "Mini Indoor Hydroponic Garden",
+        "description": "Grow herbs indoors with this easy-to-use hydroponic garden system."
+    },
+    {
+        "name": "Cauliflower Rice Stir-Fry",
+        "description": "Frozen cauliflower rice blended with mixed vegetables and seasonings."
+    },
+    {
+        "name": "Elderberry Syrup Kit",
+        "description": "DIY kit to make your own elderberry syrup."
+    },
+    {
+        "name": "Heavy Duty Gardening Tool Set",
+        "description": "Comprehensive tool set for gardening enthusiasts."
+    },
+    {
+        "name": "Multi-Port USB Hub",
+        "description": "USB hub for expanding ports on computers and laptops."
+    },
+    {
+        "name": "Portable USB-C Monitor",
+        "description": "Lightweight and slim monitor ideal for dual-screen setups."
+    },
+    {
+        "name": "Wireless Gaming Mouse",
+        "description": "Ergonomic mouse designed for gamers with high DPI."
+    },
+    {
+        "name": "Sweet Corn",
+        "description": "Tender sweet corn kernels, ready to eat or add to dishes."
+    },
+    {
+        "name": "Smoky BBQ Jackfruit",
+        "description": "Pulled jackfruit in a smoky BBQ sauce for a tasty vegan dish."
+    },
+    {
+        "name": "Chipotle Sauce",
+        "description": "Spicy sauce made with chipotle peppers"
+    },
+    {
+        "name": "Kids' Trampoline",
+        "description": "Safe and fun trampoline for children."
+    },
+    {
+        "name": "Suction Cup Hooks",
+        "description": "Reusable suction cup hooks for hanging items."
+    },
+    {
+        "name": "Asian Stir-Fry Vegetables",
+        "description": "Frozen mix of colorful stir-fry veggies."
+    },
+    {
+        "name": "Pet Grooming Scissors",
+        "description": "Quality scissors designed for easy pet grooming."
+    },
+    {
+        "name": "Vegetarian Pizza",
+        "description": "Frozen pizza loaded with vegetables and cheese."
+    },
+    {
+        "name": "Honey Sriracha Chicken Bites",
+        "description": "Frozen chicken bites coated in a honey sriracha glaze, spicy and sweet."
+    },
+    {
+        "name": "Fettuccine Alfredo Dinner Kit",
+        "description": "Easy meal kit for creamy fettuccine Alfredo."
+    },
+    {
+        "name": "Sesame Garlic Stir-Fry Sauce",
+        "description": "A flavorful sauce for stir-frying vegetables and meats."
+    },
+    {
+        "name": "Wooden Kitchen Utensil Set",
+        "description": "Eco-friendly utensil set made from natural wood."
+    },
+    {
+        "name": "Adjustable Dumbbells",
+        "description": "Space-saving adjustable dumbbells for strength training."
+    },
+    {
+        "name": "Garden Tool Set",
+        "description": "Complete set of gardening tools for all your needs."
+    },
+    {
+        "name": "Crispy Kale Chips",
+        "description": "Baked kale chips seasoned for a healthy, crunchy snack."
+    },
+    {
+        "name": "Cat Tree",
+        "description": "Multi-level cat tree for climbing and scratching."
+    },
+    {
+        "name": "Rustic Italian Bread",
+        "description": "Freshly baked rustic bread, perfect for sandwiches or dipping in olive oil."
+    },
+    {
+        "name": "Suction Cup Hooks",
+        "description": "Reusable suction cup hooks for hanging items."
+    },
+    {
+        "name": "Italian Breadsticks",
+        "description": "Crispy breadsticks seasoned with herbs and garlic."
+    },
+    {
+        "name": "Wall Planner",
+        "description": "Large wall planner for organizing schedules."
+    },
+    {
+        "name": "Organic Tomato Soup",
+        "description": "Hearty tomato soup made from organic ingredients."
+    },
+    {
+        "name": "Lemon Dill Chicken Skewers",
+        "description": "Marinated chicken skewers with lemon and dill flavor, grilled to perfection."
+    },
+    {
+        "name": "Kombucha Drink",
+        "description": "Refreshing and tangy fermented tea, available in various flavors."
+    },
+    {
+        "name": "Stainless Steel Water Pitcher",
+        "description": "Insulated pitcher to keep beverages cold or hot."
+    },
+    {
+        "name": "LED Disco Ball Light",
+        "description": "Fun light that creates a disco atmosphere for parties."
+    },
+    {
+        "name": "Coconut Almond Granola",
+        "description": "Crunchy granola made with oats, almonds, and coconut flakes."
+    },
+    {
+        "name": "Throw Pillow Covers",
+        "description": "Set of decorative pillow covers to enhance your home decor."
+    },
+    {
+        "name": "Fitness Resistance Bands Kit",
+        "description": "Set with various resistance bands for workouts."
+    },
+    {
+        "name": "Maple Pecan Oatmeal Cookies",
+        "description": "Soft oatmeal cookies with maple and pecans."
+    },
+    {
+        "name": "Smart Scale",
+        "description": "Wi-Fi smart scale for tracking weight and BMI."
+    },
+    {
+        "name": "Self-Inflating Camping Mattress",
+        "description": "Comfortable camping mattress that inflates automatically."
+    },
+    {
+        "name": "Cheddar Cheese Crackers",
+        "description": "Crunchy crackers topped with real cheddar cheese flavor."
+    },
+    {
+        "name": "Lentils",
+        "description": "High in protein, perfect for soups and stews."
+    },
+    {
+        "name": "Smart Wi-Fi Camera",
+        "description": "Indoor Wi-Fi camera for home security."
+    },
+    {
+        "name": "Mango Chia Pudding",
+        "description": "Healthy chia pudding made with mango and coconut milk."
+    },
+    {
+        "name": "Travel Jewelry Organizer",
+        "description": "Compact storage for your jewelry while traveling."
+    },
+    {
+        "name": "Gardening Tool Belt",
+        "description": "Convenient belt with pockets for easy access to tools while gardening."
+    },
+    {
+        "name": "Fitness Tracker Band",
+        "description": "Affordable fitness tracker with heart rate monitor."
+    },
+    {
+        "name": "Chino Shorts",
+        "description": "Classic chino shorts in a versatile color for summer adventures."
+    },
+    {
+        "name": "Coffee Subscription Service",
+        "description": "Monthly subscription for freshly roasted coffee delivered to your door."
+    },
+    {
+        "name": "Classic BBQ Sauce",
+        "description": "Smoky and sweet BBQ sauce for grilling and dipping."
+    },
+    {
+        "name": "Multi-Function Meat Tenderizer",
+        "description": "Kitchen tool for tenderizing meat to enhance flavors."
+    },
+    {
+        "name": "Pet Activity Tracker",
+        "description": "GPS collar that monitors your pet's location and activity level."
+    },
+    {
+        "name": "Roasted Vegetable Medley",
+        "description": "A mix of frozen roasted vegetables for an easy side dish."
+    },
+    {
+        "name": "Savory Oatmeal",
+        "description": "Oatmeal made with savory spices and vegetables."
+    },
+    {
+        "name": "Caramel Apple Taffy",
+        "description": "Sweet and chewy taffy flavored like caramel apples, great for fall."
+    },
+    {
+        "name": "Tandoori Chicken Skewers",
+        "description": "Marinated chicken skewers infused with traditional tandoori spices."
+    },
+    {
+        "name": "Eggs (dozen)",
+        "description": "Farm fresh eggs, essential for breakfast."
+    },
+    {
+        "name": "Rice Pudding",
+        "description": "Creamy dessert made with rice and cinnamon."
+    },
+    {
+        "name": "Mini Projector",
+        "description": "Portable projector with 1080p resolution for movies."
+    },
+    {
+        "name": "Smart Home Hub",
+        "description": "Connect and control smart devices from one app."
+    },
+    {
+        "name": "Pet Grooming Brush",
+        "description": "Self-cleaning grooming brush for cats and dogs."
+    },
+    {
+        "name": "Organic Almonds",
+        "description": "Crunchy and nutritious almonds, perfect for snacking."
+    },
+    {
+        "name": "Magnet Travel Fridge Magnets",
+        "description": "Fun tourist magnets from around the world for your fridge."
+    },
+    {
+        "name": "Vegetarian Stuffed Peppers",
+        "description": "Bell peppers stuffed with rice, beans, and spices, ready to bake."
+    },
+    {
+        "name": "Self-Cleaning Cat Litter Box",
+        "description": "Automated litter box that cleans itself after each use."
+    },
+    {
+        "name": "Gardening Gloves",
+        "description": "Durable gardening gloves with reinforced fingertips."
+    },
+    {
+        "name": "Pumpkin Spice Latte Mix",
+        "description": "Instant mix for delicious pumpkin spice lattes at home."
+    },
+    {
+        "name": "Microfiber Cleaning Cloths",
+        "description": "Pack of ultra-soft microfiber cloths for cleaning."
+    },
+    {
+        "name": "Adjustable Bar Stools",
+        "description": "Stylish bar stools with adjustable height and swivel features."
+    },
+    {
+        "name": "Maple Bacon Potato Chips",
+        "description": "Savory potato chips with a hint of maple sweetness and crispy bacon flavor."
+    },
+    {
+        "name": "Sushi Roll Kit",
+        "description": "All ingredients needed to make your own sushi"
+    },
+    {
+        "name": "Shower Curtain Hooks",
+        "description": "Stylish hooks to easily hang shower curtains."
+    },
+    {
+        "name": "Shatterproof Wine Glasses",
+        "description": "Durable, unbreakable wine glasses for outdoor use."
+    },
+    {
+        "name": "Vegetable Fried Rice",
+        "description": "Quick and easy fried rice mixed with vegetables and soy sauce."
+    },
+    {
+        "name": "Chili Powder",
+        "description": "Spicy chili powder to add heat to dishes."
+    },
+    {
+        "name": "Memory Card",
+        "description": "64GB SD memory card for cameras and devices."
+    },
+    {
+        "name": "Pasta Maker",
+        "description": "Manual pasta maker for homemade pasta."
+    },
+    {
+        "name": "Hummus",
+        "description": "Creamy chickpea dip, perfect for veggies or pita."
+    },
+    {
+        "name": "Camping Chair",
+        "description": "Portable folding camping chair with cup holder."
+    },
+    {
+        "name": "Chocolate Almond Milk",
+        "description": "Rich and creamy almond milk with a hint of chocolate."
+    },
+    {
+        "name": "Backpacking Tent",
+        "description": "Lightweight and durable tent for camping trips."
+    },
+    {
+        "name": "Smartwatch",
+        "description": "Stylish smartwatch with fitness tracking features."
+    },
+    {
+        "name": "Adjustable Height Standing Desk Converter",
+        "description": "Convert your desk to a standing desk easily."
+    },
+    {
+        "name": "Cabbage",
+        "description": "Fresh green cabbage, great for salads and slaws."
+    },
+    {
+        "name": "Vegan chocolate chip cookies",
+        "description": "Delicious soft cookies, dairy-free and egg-free, perfect for treats."
+    },
+    {
+        "name": "Portable Speaker Stand",
+        "description": "Adjustable stand for portable speakers and devices."
+    },
+    {
+        "name": "Multifunctional Pocket Tool",
+        "description": "Compact pocket tool with various built-in functions."
+    },
+    {
+        "name": "Herbal Tea Infuser",
+        "description": "Infuser for brewing loose-leaf herbal teas easily."
+    },
+    {
+        "name": "Jump Rope with Counter",
+        "description": "Durable jump rope with built-in counter for workouts."
+    },
+    {
+        "name": "Black Bean & Corn Salad",
+        "description": "A fresh salad made with black beans, corn, and a zesty dressing, great for summer cookouts."
+    },
+    {
+        "name": "Heated Throw Blanket",
+        "description": "Soft blanket that provides warmth with adjustable settings."
+    },
+    {
+        "name": "Vegan Chickpea Salad",
+        "description": "Healthy salad made with chickpeas, vegetables, and a lemon dressing."
+    },
+    {
+        "name": "Frozen Fruit Medley",
+        "description": "A mix of strawberries, blueberries, and raspberries, perfect for smoothies."
+    },
+    {
+        "name": "Kids' Educational Tablet",
+        "description": "Learning tablet with kid-friendly educational apps."
+    },
+    {
+        "name": "Mini Indoor Herb Garden Kit",
+        "description": "All-in-one kit for growing herbs in your kitchen."
+    },
+    {
+        "name": "Essential Oil Diffuser",
+        "description": "Ultrasonic diffuser that helps create a calming atmosphere."
+    },
+    {
+        "name": "Folding Backpack Chair",
+        "description": "Versatile chair that easily folds up for carrying."
+    },
+    {
+        "name": "LED Flashlight",
+        "description": "Bright LED flashlight with adjustable beam."
+    },
+    {
+        "name": "Indoor Grill",
+        "description": "Electric indoor grill for quick meals."
+    },
+    {
+        "name": "Board Game",
+        "description": "Strategic board game for family game nights."
+    },
+    {
+        "name": "Almond Crunch Granola Bars",
+        "description": "Nutty granola bars for healthy snacking."
+    },
+    {
+        "name": "Electric Egg Cooker",
+        "description": "Automatically cooks eggs to your desired level."
+    },
+    {
+        "name": "Lemon Dill Chicken Skewers",
+        "description": "Marinated chicken skewers with lemon and dill flavor, grilled to perfection."
+    },
+    {
+        "name": "Honey Ginger Tea",
+        "description": "Soothing tea with honey and ginger, great for relaxation."
+    },
+    {
+        "name": "Stainless Steel Travel Mug",
+        "description": "Insulated mug to keep drinks hot on the go."
+    },
+    {
+        "name": "Honey Graham Crackers",
+        "description": "Sweet and crunchy honey-flavored graham crackers."
+    },
+    {
+        "name": "Vegan Taco Seasoning",
+        "description": "Spice blend for creating flavorful vegan taco filling."
+    },
+    {
+        "name": "Bamboo Cutting Board Set",
+        "description": "Eco-friendly bamboo cutting boards in various sizes."
+    },
+    {
+        "name": "Pet Grooming Brush",
+        "description": "Self-cleaning grooming brush for cats and dogs."
+    },
+    {
+        "name": "Oven Thermometer",
+        "description": "High-precision oven thermometer for accurate cooking."
+    },
+    {
+        "name": "Whole Roasted Chicken",
+        "description": "Seasoned and roasted to perfection, ready to eat."
+    },
+    {
+        "name": "Classic Cheesecake Mix",
+        "description": "A simple, no-bake cheesecake mix to create your own delicious cheesecake."
+    },
+    {
+        "name": "Electronic Drum Kit",
+        "description": "Compact electronic drum kit for musicians of all levels."
+    },
+    {
+        "name": "Stuffed Peppers with Quinoa",
+        "description": "Bell peppers filled with quinoa and vegetables."
+    },
+    {
+        "name": "Apple Pie Filling",
+        "description": "Sweet and spiced apple filling, perfect for pies."
+    },
+    {
+        "name": "Frozen Chicken Nuggets",
+        "description": "Crispy chicken nuggets for quick meals."
+    },
+    {
+        "name": "Sour Cream",
+        "description": "Tangy sour cream, perfect for dips and toppings."
+    },
+    {
+        "name": "Car Seat Organizer",
+        "description": "Storage solutions for keeping your car tidy and organized."
+    },
+    {
+        "name": "Silicone Baking Cups",
+        "description": "Set of reusable baking cups for muffins and cupcakes."
+    },
+    {
+        "name": "Egg Noodles",
+        "description": "Wide egg noodles, perfect for casseroles and soups."
+    },
+    {
+        "name": "Organic Blueberries",
+        "description": "Fresh organic blueberries perfect for snacking or baking."
+    },
+    {
+        "name": "Peanut Butter Granola",
+        "description": "Crunchy granola full of peanut butter flavor and oats."
+    },
+    {
+        "name": "Nutty Trail Mix",
+        "description": "A blend of nuts, seeds, and dried fruits for snacking."
+    },
+    {
+        "name": "Electric Rice Cooker",
+        "description": "Multi-function rice cooker for all types of rice recipes."
+    },
+    {
+        "name": "Vegetable Fried Rice Mix",
+        "description": "A quick and easy fried rice mix with colorful veggies and savory seasoning."
+    },
+    {
+        "name": "Herbed Goat Cheese",
+        "description": "Tangy goat cheese infused with herbs, perfect for snacking."
+    },
+    {
+        "name": "Smoked Gouda Cheese",
+        "description": "Rich and creamy smoked Gouda cheese perfect for snacking."
+    },
+    {
+        "name": "Air Purifier",
+        "description": "HEPA air purifier for clean indoor air."
+    },
+    {
+        "name": "Breezy Off-The-Shoulder Top",
+        "description": "A light and breezy top ideal for warm days."
+    },
+    {
+        "name": "Habanero Hot Sauce",
+        "description": "Fiery hot sauce made with fresh habaneros and spices."
+    },
+    {
+        "name": "Multi-Cooker",
+        "description": "Versatile multi-cooker for pressure cooking and slow cooking."
+    },
+    {
+        "name": "Electric Heat Press Machine",
+        "description": "Ideal for creating custom designs on t-shirts and fabrics."
+    },
+    {
+        "name": "Vegetable Stir-Fry Sauce",
+        "description": "Savory sauce for vegetable and meat stir-fries."
+    },
+    {
+        "name": "Raisin Cinnamon Granola",
+        "description": "Crunchy granola with raisins and cinnamon for a delightful breakfast."
+    },
+    {
+        "name": "Heavy Duty Gardening Tool Set",
+        "description": "Comprehensive tool set for gardening enthusiasts."
+    },
+    {
+        "name": "Honey",
+        "description": "Pure and natural honey, great for sweetening."
+    },
+    {
+        "name": "Coconut Milk Ice Cream",
+        "description": "Dairy-free ice cream made with coconut milk, creamy and delicious."
+    },
+    {
+        "name": "Ankle Boots",
+        "description": "Stylish leather ankle boots with a block heel, perfect for fall styling."
+    },
+    {
+        "name": "Handcrafted Wooden Coasters",
+        "description": "Set of unique wooden coasters for drinks and decor."
+    },
+    {
+        "name": "Silicone Baking Mat",
+        "description": "Non-stick baking mat for easy cooking and cleanup."
+    },
+    {
+        "name": "Lightweight Travel Backpack",
+        "description": "Compact and portable backpack for day trips and travel."
+    },
+    {
+        "name": "Foldable Yoga Mat Carry Bag",
+        "description": "Durable bag for carrying your yoga mat and accessories."
+    },
+    {
+        "name": "Cinnamon Rolls",
+        "description": "Sweet and gooey cinnamon rolls, ready to bake."
+    },
+    {
+        "name": "Italian Herb Balsamic Marinade",
+        "description": "A rich marinade perfect for meats and vegetables, infused with Italian herbs and balsamic vinegar."
+    },
+    {
+        "name": "Satin Slip Dress",
+        "description": "Luxurious satin slip dress for an elegant evening look."
+    },
+    {
+        "name": "Coconut Yogurt",
+        "description": "Creamy yogurt made from coconut milk, dairy-free and delicious."
+    },
+    {
+        "name": "Savory Snack Mix",
+        "description": "A mix of nuts, pretzels, and crackers, seasoned just right for snacking."
+    },
+    {
+        "name": "Rechargeable Electric Toothbrush",
+        "description": "Advanced electric toothbrush for effective cleaning."
+    },
+    {
+        "name": "Slim Fit Chinos",
+        "description": "Comfortable slim fit chinos for a polished look."
+    },
+    {
+        "name": "Workstation Laptop Stand",
+        "description": "Adjustable stand to improve ergonomics while working on a laptop."
+    },
+    {
+        "name": "Eco-Friendly Stainless Steel Straws",
+        "description": "Reusable straws that come with a cleaning brush."
+    },
+    {
+        "name": "Car Windshield Sun Shade",
+        "description": "Protects car interior from sun damage and heat."
+    },
+    {
+        "name": "DIY Candle Making Kit",
+        "description": "Everything you need to make your own candles."
+    },
+    {
+        "name": "Trendy Bomber Jacket",
+        "description": "A fashion-forward bomber jacket to elevate your casual looks."
+    },
+    {
+        "name": "Thyme",
+        "description": "Fresh thyme, perfect for seasoning dishes."
+    },
+    {
+        "name": "Collapsible Storage Crates",
+        "description": "Space-saving crates for easy organization at home or while traveling."
+    },
+    {
+        "name": "Organic Granola",
+        "description": "Healthy granola made with oats and honey."
+    },
+    {
+        "name": "Pistachio Ice Cream",
+        "description": "Creamy pistachio-flavored ice cream with real nuts."
+    },
+    {
+        "name": "Adjustable Yoga Mat Strap",
+        "description": "Convenient strap for carrying yoga mats to class."
+    },
+    {
+        "name": "Multi-Purpose Scissors",
+        "description": "Heavy-duty scissors for crafting and office use."
+    },
+    {
+        "name": "Portable Hammock Swing",
+        "description": "Lightweight and portable swing hammock for relaxing outdoors."
+    },
+    {
+        "name": "Artisan Flatbreads",
+        "description": "Thin and crispy flatbreads, perfect for dips."
+    },
+    {
+        "name": "Kids' Trampoline",
+        "description": "Safe and fun trampoline for children."
+    },
+    {
+        "name": "Self-Adhesive Wallpaper",
+        "description": "Peel and stick wallpaper for easy home decor changes."
+    },
+    {
+        "name": "Chilli Lime Corn on the Cob",
+        "description": "Corn on the cob seasoned with chili and lime for a spicy kick."
+    },
+    {
+        "name": "Magnetic Screen Door",
+        "description": "Keep bugs out while allowing fresh air in during summer."
+    },
+    {
+        "name": "Lemon Sorbet",
+        "description": "Refreshing sorbet with a zesty lemon flavor."
+    },
+    {
+        "name": "Laundry Detergent",
+        "description": "Effective laundry detergent for a deep clean."
+    },
+    {
+        "name": "Chipotle Black Bean Burger",
+        "description": "Spicy black bean burgers, great on the grill."
+    },
+    {
+        "name": "Emergency Preparedness Kit",
+        "description": "Complete kit for emergency situations including food and water."
+    },
+    {
+        "name": "Compact Dishwasher",
+        "description": "Countertop dishwasher for small kitchens."
+    },
+    {
+        "name": "Compact Folding Table",
+        "description": "Versatile folding table great for events or outdoor activities."
+    },
+    {
+        "name": "Faux Fur Coat",
+        "description": "A luxurious faux fur coat that adds glamour to any outfit."
+    },
+    {
+        "name": "Travel Sewing Kit",
+        "description": "Compact sewing kit for travel emergencies."
+    },
+    {
+        "name": "Oats",
+        "description": "Organic rolled oats, great for breakfast or baking."
+    },
+    {
+        "name": "Multifunctional Pocket Tool",
+        "description": "Compact pocket tool with various built-in functions."
+    },
+    {
+        "name": "Grapes (red)",
+        "description": "Fresh seedless red grapes, perfect for snacking."
+    },
+    {
+        "name": "Adjustable Pet Feeder",
+        "description": "Convenient feeder that adjusts to your pet's height."
+    },
+    {
+        "name": "Fleece Throw Blanket",
+        "description": "Super soft fleece blanket, perfect for coziness."
+    },
+    {
+        "name": "Roasted Red Pepper Hummus",
+        "description": "A creamy and flavorful hummus made with roasted red peppers."
+    },
+    {
+        "name": "Creamy Avocado Dip",
+        "description": "Rich and creamy dip made with real avocado, great for chips."
+    },
+    {
+        "name": "Foot Massager Machine",
+        "description": "Electric foot massager for relaxation and relief."
+    },
+    {
+        "name": "Reusable Coffee Filter",
+        "description": "Eco-friendly coffee filter for brewing."
+    },
+    {
+        "name": "Garden Hose",
+        "description": "Durable 50-foot garden hose with nozzle."
+    },
+    {
+        "name": "Balsamic Salad Dressing",
+        "description": "Tangy and sweet balsamic dressing, perfect for salads."
+    },
+    {
+        "name": "Apple Juice",
+        "description": "Refreshing apple juice, 100% juice with no added sugar."
+    },
+    {
+        "name": "Pasta Portion Control Measure",
+        "description": "Tool for measuring perfect pasta portions every time."
+    },
+    {
+        "name": "Cinnamon Roll Dough",
+        "description": "Ready-to-bake cinnamon roll dough for easy breakfasts."
+    },
+    {
+        "name": "V-Neck Sweater",
+        "description": "Classic V-neck sweater crafted from soft wool for warmth and style."
+    },
+    {
+        "name": "Travel Document Organizer",
+        "description": "Organize travel documents, passport, and cards."
+    },
+    {
+        "name": "Smart Scale",
+        "description": "Wi-Fi smart scale for tracking weight and BMI."
+    },
+    {
+        "name": "Chocolate Almond Milk",
+        "description": "Rich and creamy almond milk with a hint of chocolate."
+    },
+    {
+        "name": "Pet Leash",
+        "description": "Durable pet leash with comfortable handle."
+    },
+    {
+        "name": "Pasta Sauce Mix",
+        "description": "Just add water for a quick pasta sauce."
+    },
+    {
+        "name": "Glass Water Bottle",
+        "description": "Borosilicate glass water bottle with silicone sleeve."
+    },
+    {
+        "name": "Nutty Granola Clusters",
+        "description": "Crunchy granola clusters mixed with nuts and honey."
+    },
+    {
+        "name": "Frozen Berry Blend",
+        "description": "A mix of frozen berries for smoothies or desserts"
+    },
+    {
+        "name": "Portable Pet Water Bottle",
+        "description": "Travel-friendly water bottle for pets on the go."
+    },
+    {
+        "name": "Pumpkin Spice Coffee",
+        "description": "Coffee blend infused with pumpkin spice, perfect for fall."
+    },
+    {
+        "name": "Herbal Tea Sampler Box",
+        "description": "Assorted collection of herbal teas for relaxation and wellness."
+    },
+    {
+        "name": "Maple Bacon Popcorn",
+        "description": "Savory popcorn flavored with maple syrup and bacon bits."
+    },
+    {
+        "name": "Peanut Butter",
+        "description": "Creamy and smooth peanut butter, perfect for sandwiches."
+    },
+    {
+        "name": "Creamy Garlic Mashed Potatoes",
+        "description": "Rich and buttery mashed potatoes with roasted garlic."
+    },
+    {
+        "name": "Strawberry Fruit Spread",
+        "description": "Natural fruit spread bursting with real strawberry flavor."
+    },
+    {
+        "name": "Fruit Medley Juice",
+        "description": "Refreshing juice blend made with various fresh fruits."
+    },
+    {
+        "name": "Infrared Thermometer Gun",
+        "description": "Non-contact thermometer for quick and easy temperature readings."
+    },
+    {
+        "name": "Oats",
+        "description": "Organic rolled oats, great for breakfast or baking."
+    },
+    {
+        "name": "Chocolate Peanut Butter Cups",
+        "description": "Delicious dark chocolate cups filled with creamy peanut butter."
+    },
+    {
+        "name": "Pet Food Storage Container",
+        "description": "Airtight container to keep pet food fresh."
+    },
+    {
+        "name": "Electric Heating Pad",
+        "description": "Microwaveable heating pad for muscle pain relief and relaxation."
+    },
+    {
+        "name": "Electric Blanket",
+        "description": "Extra soft electric blanket with adjustable heat settings."
+    },
+    {
+        "name": "Stainless Steel Water Pitcher",
+        "description": "Insulated pitcher to keep beverages cold or hot."
+    },
+    {
+        "name": "DIY Candle Making Kit",
+        "description": "Everything you need to make your own candles."
+    },
+    {
+        "name": "Lentil Soup",
+        "description": "Flavorful lentil soup, perfect for a quick meal."
+    },
+    {
+        "name": "Body Wash",
+        "description": "Moisturizing body wash with natural ingredients."
+    },
+    {
+        "name": "Pineapple Coconut Bars",
+        "description": "Refreshing dessert bars made with pineapple and coconut."
+    },
+    {
+        "name": "Sweet Potatoes",
+        "description": "Sweet and nutritious potatoes, great for roasting."
+    },
+    {
+        "name": "Indestructible Dog Toy",
+        "description": "Durable toy designed for heavy chewers."
+    },
+    {
+        "name": "Portable Water Filter",
+        "description": "Lightweight water filter for outdoor adventures."
+    },
+    {
+        "name": "Vegetarian Pizza",
+        "description": "Frozen pizza loaded with vegetables and cheese."
+    },
+    {
+        "name": "Foot Massager",
+        "description": "Electric foot massager with heat settings."
+    },
+    {
+        "name": "Pumpkin Pie Spice",
+        "description": "A blend of spices that brings the taste of fall to your baked goods."
+    },
+    {
+        "name": "Coffee Capsule Dispenser",
+        "description": "Organize coffee capsules with this stylish dispenser."
+    },
+    {
+        "name": "Margherita Pizza",
+        "description": "A frozen pizza topped with fresh mozzarella, tomatoes, and basil."
+    },
+    {
+        "name": "Woven Storage Baskets",
+        "description": "Stylish baskets for organizing various items in your home."
+    },
+    {
+        "name": "Savory Oats",
+        "description": "Instant oats with a savory twist, such as herbs and spices."
+    },
+    {
+        "name": "Outdoor Fire Pit",
+        "description": "Portable fire pit for backyard gatherings."
+    },
+    {
+        "name": "Tomato Sauce",
+        "description": "Rich and flavorful tomato sauce for pasta or pizza."
+    },
+    {
+        "name": "Tropical Fruit Bowl",
+        "description": "A mix of tropical fruits for a refreshing snack or dessert."
+    },
+    {
+        "name": "Savory Rice Cakes",
+        "description": "Lightly salted rice cakes, perfect for a healthy snack."
+    },
+    {
+        "name": "Stuffed Grape Leaves",
+        "description": "Grape leaves stuffed with rice and herbs, ready to eat."
+    },
+    {
+        "name": "Lemon Sorbet",
+        "description": "Refreshing sorbet with a zesty lemon flavor."
+    },
+    {
+        "name": "Protein Bar Variety Pack",
+        "description": "A pack of assorted nut and protein bars for a quick energy boost."
+    },
+    {
+        "name": "Chocolate Mint Protein Shake",
+        "description": "A nutritious shake with rich chocolate and refreshing mint flavors."
+    },
+    {
+        "name": "Outdoor Portable Fire Pit",
+        "description": "Compact fire pit for campfires and gatherings."
+    },
+    {
+        "name": "Wireless Security System",
+        "description": "Comprehensive camera and alert system for home security."
+    },
+    {
+        "name": "Portable Pet Bathing Tool",
+        "description": "Handheld sprayer designed for washing pets easily."
+    },
+    {
+        "name": "Training Soccer Ball",
+        "description": "Durable training soccer ball for practice."
+    },
+    {
+        "name": "Whole Roasted Chicken",
+        "description": "Seasoned and roasted to perfection, ready to eat."
+    },
+    {
+        "name": "Pet Bed",
+        "description": "Comfortable pet bed for small to medium-sized dogs."
+    },
+    {
+        "name": "Organic Chia Seeds",
+        "description": "Nutritious chia seeds great for smoothies"
+    },
+    {
+        "name": "Cinnamon Sugar Mix",
+        "description": "Sweet mixture of cinnamon and sugar for sprinkling."
+    },
+    {
+        "name": "Wall-Mounted Bookshelf",
+        "description": "Floating bookshelf to display your favorite books."
+    },
+    {
+        "name": "Fruit and Nut Medley",
+        "description": "A healthy mix of assorted dried fruits and nuts for snacking."
+    },
+    {
+        "name": "Sweet Corn Fritters",
+        "description": "Golden-brown fritters made with sweet corn."
+    },
+    {
+        "name": "Reclining Camping Chair",
+        "description": "Foldable reclining camping chair with cup holder."
+    },
+    {
+        "name": "Set of Measuring Spoons",
+        "description": "Stainless steel measuring spoons set for cooking."
+    },
+    {
+        "name": "Oatmeal Raisin Cookies",
+        "description": "Delicious cookies packed with oats and raisins."
+    },
+    {
+        "name": "Jennifer's Amazing Lip Balm Kit",
+        "description": "DIY kit to make your own lip balms in various flavors."
+    },
+    {
+        "name": "Cereal Dispenser with Portion Control",
+        "description": "Maintain freshness and dispense cereal easily."
+    },
+    {
+        "name": "Organic Coconut Yogurt",
+        "description": "Dairy-free yogurt made from coconut milk."
+    },
+    {
+        "name": "Portable Phone Charger",
+        "description": "High-capacity power bank for charging devices on the go."
+    },
+    {
+        "name": "Banana Nut Oatmeal Cups",
+        "description": "Quick oatmeal cups with banana and nut flavor, great for breakfast."
+    },
+    {
+        "name": "Chicken Breasts",
+        "description": "Juicy and tender boneless chicken breasts."
+    },
+    {
+        "name": "Gardening Fairy Figurines",
+        "description": "Cute fairy figurines to decorate your garden or potted plants."
+    },
+    {
+        "name": "Board Game Storage",
+        "description": "Organize your board games with this storage bin."
+    },
+    {
+        "name": "Compost Bin",
+        "description": "Countertop compost bin for kitchen waste."
+    },
+    {
+        "name": "Garden Tool Set",
+        "description": "Complete set of gardening tools for all your needs."
+    },
+    {
+        "name": "Coconut Granola",
+        "description": "Crunchy granola mixed with coconut flakes."
+    },
+    {
+        "name": "Artisan Cornbread Mix",
+        "description": "Mix for homemade cornbread, just add water and bake for a delicious side."
+    },
+    {
+        "name": "Set of Silicone Cooking Utensils",
+        "description": "Non-stick utensils for safe and easy cooking."
+    },
+    {
+        "name": "Brownie Bites",
+        "description": "Fudgy brownie bites, perfect for sharing or snacking."
+    },
+    {
+        "name": "Homestyle Beef Stew",
+        "description": "Hearty beef stew with vegetables, ready to heat and serve."
+    },
+    {
+        "name": "Herbal Tea Infuser",
+        "description": "Infuser for brewing loose-leaf herbal teas easily."
+    },
+    {
+        "name": "Savory Rice Cakes",
+        "description": "Lightly salted rice cakes, perfect for a healthy snack."
+    },
+    {
+        "name": "Plant-Based Meal Prep Containers",
+        "description": "Eco-friendly meal prep containers for healthy eating."
+    },
+    {
+        "name": "Blue Denim Jeans",
+        "description": "Classic fit blue jeans with a slight stretch for comfort and durability."
+    },
+    {
+        "name": "Fitness Resistance Bands",
+        "description": "Set of resistance bands for home workouts."
+    },
+    {
+        "name": "Carrot Ginger Soup",
+        "description": "Smooth soup made from carrots and ginger, great for cold days."
+    },
+    {
+        "name": "Frozen Salmon Filets",
+        "description": "Wild-caught salmon filets, perfect for grilling or baking."
+    },
+    {
+        "name": "Decorative Wall Tapestry",
+        "description": "Colorful tapestry to add charm to any room."
+    },
+    {
+        "name": "Smartphone Stand",
+        "description": "Adjustable stand for smartphones and tablets."
+    },
+    {
+        "name": "Buffalo Style Cauliflower Bites",
+        "description": "Frozen cauliflower bites coated in spicy buffalo sauce, ready to bake and enjoy as an appetizer."
+    },
+    {
+        "name": "Lemon Garlic Marinade",
+        "description": "A zesty marinade made with lemon juice and garlic, ideal for chicken or fish."
+    },
+    {
+        "name": "Set of Herb Garden Markers",
+        "description": "Stylish markers for labeling your indoor garden plants."
+    },
+    {
+        "name": "Cabbage Slaw Mix",
+        "description": "Fresh cabbage and carrot slaw mix for salads."
+    },
+    {
+        "name": "Portable Grill Cover",
+        "description": "Durable cover to protect your grill from the elements."
+    },
+    {
+        "name": "Eco-Friendly Cleaning Cloths",
+        "description": "Reusable microfiber cloths for environmentally friendly cleaning."
+    },
+    {
+        "name": "Blackberry Jam",
+        "description": "Delicious homemade style blackberry jam."
+    },
+    {
+        "name": "Baked Falafel Balls",
+        "description": "Frozen falafel balls made from chickpeas and herbs, perfect for quick meals or salads."
+    },
+    {
+        "name": "Gardening Tool Belt",
+        "description": "Convenient belt with pockets for easy access to tools while gardening."
+    },
+    {
+        "name": "Dark Chocolate Raisins",
+        "description": "Juicy raisins coated in rich dark chocolate."
+    },
+    {
+        "name": "Pressure Cooker",
+        "description": "Instant pressure cooker with multiple cooking settings."
+    },
+    {
+        "name": "Balsamic Fig Dressing",
+        "description": "A sweet and tangy dressing made with figs and balsamic vinegar, great on salads."
+    },
+    {
+        "name": "DIY Lip Balm Kit",
+        "description": "Craft your own lip balms with this complete kit."
+    },
+    {
+        "name": "Oatmeal Raisin Cookies",
+        "description": "Delicious cookies packed with oats and raisins."
+    },
+    {
+        "name": "Kids' Art Easel",
+        "description": "Double-sided art easel for painting and drawing."
+    },
+    {
+        "name": "Electric Toothbrush",
+        "description": "Rechargeable electric toothbrush with smart timer."
+    },
+    {
+        "name": "Children's Gardening Set",
+        "description": "Fun gardening tools designed specifically for kids."
+    },
+    {
+        "name": "Organic Honeycrisp Apples",
+        "description": "Sweet and crisp apples, perfect for snacking."
+    },
+    {
+        "name": "Portable Massage Gun",
+        "description": "Personal massager for muscle recovery."
+    },
+    {
+        "name": "Multifunctional Pocket Tool",
+        "description": "Compact pocket tool with various built-in functions."
+    },
+    {
+        "name": "Oven-Baked Sweet Potato Fries",
+        "description": "Crispy sweet potato fries, perfectly seasoned and baked to perfection."
+    },
+    {
+        "name": "Cordless Electric Screwdriver",
+        "description": "Rechargeable screwdriver with multiple bits for DIY projects."
+    },
+    {
+        "name": "Luxury Bath Salts",
+        "description": "Scented bath salts for relaxation and self-care."
+    },
+    {
+        "name": "Smart Home Hub",
+        "description": "Connect and control smart devices from one app."
+    },
+    {
+        "name": "Comfy Slippers",
+        "description": "Soft and cozy slippers for indoor wear."
+    },
+    {
+        "name": "Organic Coconut Yogurt",
+        "description": "Dairy-free yogurt made from coconut milk."
+    },
+    {
+        "name": "Fashionable Scarves Set",
+        "description": "Stylish scarves to accessorize any outfit."
+    },
+    {
+        "name": "Comfort Flats",
+        "description": "Everyday flats that combine comfort and style."
+    },
+    {
+        "name": "Spicy Beef Taco Mix",
+        "description": "Easy mix for making spicy beef tacos."
+    },
+    {
+        "name": "Electric Pressure Cooker",
+        "description": "Multi-function pressure cooker that can saut\u00e9, steam, and slow cook."
+    },
+    {
+        "name": "Eco-Friendly Stainless Steel Straws",
+        "description": "Reusable straws that come with a cleaning brush."
+    },
+    {
+        "name": "Sweet Chili Sauce",
+        "description": "A sweet and spicy sauce, great for dipping or cooking."
+    },
+    {
+        "name": "Smart Thermostat",
+        "description": "Wi-Fi enabled thermostat for energy-saving temperature control."
+    },
+    {
+        "name": "Fleece Lined Leggings",
+        "description": "Comfortable and warm leggings perfect for colder weather."
+    },
+    {
+        "name": "Asian Stir-Fry Vegetables",
+        "description": "Frozen mix of colorful stir-fry veggies."
+    },
+    {
+        "name": "Vegetarian Stuffed Peppers",
+        "description": "Bell peppers stuffed with rice, beans, and spices, ready to bake."
+    },
+    {
+        "name": "Insulated Coffee Mug",
+        "description": "Double-walled mug to keep your drink hot for longer."
+    },
+    {
+        "name": "Dark Chocolate Bars",
+        "description": "Rich dark chocolate bars, perfect for a sweet treat."
+    },
+    {
+        "name": "Adjustable Laptop Stand",
+        "description": "Ergonomic stand for laptops to improve posture while working."
+    },
+    {
+        "name": "Puzzle 3D Model Kit",
+        "description": "3D model puzzle kit for creative builders."
+    },
+    {
+        "name": "Plant Watering Spikes",
+        "description": "Automatic watering devices for potted plants."
+    },
+    {
+        "name": "Lemon Zest Olive Oil",
+        "description": "High-quality olive oil infused with fresh lemon zest."
+    },
+    {
+        "name": "Digital Wireless Meat Thermometer",
+        "description": "Bluetooth thermometer that alerts you when your meat is done."
+    },
+    {
+        "name": "Ribbed Knit Dress",
+        "description": "A fitted ribbed knit dress that hugs your curves perfectly."
+    },
+    {
+        "name": "Almond Coconut Granola",
+        "description": "Crunchy granola with almonds and coconut."
+    },
+    {
+        "name": "Banana Nut Muffins",
+        "description": "Moist, fluffy muffins packed with bananas and walnuts for a delightful breakfast or snack."
+    },
+    {
+        "name": "Outdoor Sports Backpack",
+        "description": "Durable backpack designed for hiking and outdoor excursions."
+    },
+    {
+        "name": "Vegetable Pizza Rolls",
+        "description": "Frozen pizza rolls filled with vegetables and cheese, perfect for snacks."
+    },
+    {
+        "name": "Handheld Shower Head",
+        "description": "Adjustable shower head for a luxurious shower experience."
+    },
+    {
+        "name": "Garlic Breadsticks",
+        "description": "Ready-to-bake garlic breadsticks, perfect with pasta dishes."
+    },
+    {
+        "name": "Peach Slices in Syrup",
+        "description": "Sweet and tender peach slices preserved in syrup, great for desserts."
+    },
+    {
+        "name": "Cinnamon Ice Cream",
+        "description": "Creamy ice cream with a warm cinnamon flavor, perfect for dessert."
+    },
+    {
+        "name": "Kids' Trampoline",
+        "description": "Safe and fun trampoline for children."
+    },
+    {
+        "name": "Sushi Roll Kit",
+        "description": "All ingredients needed to make your own sushi"
+    },
+    {
+        "name": "Vanilla Bean Greek Yogurt",
+        "description": "Smooth Greek yogurt infused with vanilla bean flavor."
+    },
+    {
+        "name": "Buttermilk Pancakes",
+        "description": "Fluffy pancakes with buttermilk flavor."
+    },
+    {
+        "name": "Premium Flashlight",
+        "description": "High-intensity flashlight with adjustable focus and brightness."
+    },
+    {
+        "name": "Bluetooth Shower Speaker",
+        "description": "Water-resistant Bluetooth speaker for showers."
+    },
+    {
+        "name": "Popcorn Chicken",
+        "description": "Crispy chicken bites, perfect for dipping."
+    },
+    {
+        "name": "Organic Green Apples",
+        "description": "Fresh and tart organic green apples, great for snacking or baking."
+    },
+    {
+        "name": "Peach Slices in Syrup",
+        "description": "Sweet and tender peach slices preserved in syrup, great for desserts."
+    },
+    {
+        "name": "Siphon Coffee Maker",
+        "description": "Unique coffee brewing method for a flavorful experience."
+    },
+    {
+        "name": "Pet Tracking Collar",
+        "description": "GPS pet collar that helps locate your pet via smartphone app."
+    },
+    {
+        "name": "Portable Bluetooth Speaker",
+        "description": "Compact Bluetooth speaker with rich sound quality."
+    },
+    {
+        "name": "Organic Quinoa Salad",
+        "description": "A refreshing salad made with quinoa and seasonal veggies."
+    },
+    {
+        "name": "Warm Knit Beanie",
+        "description": "Stay warm with this stylish knit beanie in various colors."
+    },
+    {
+        "name": "Decorative Throw Blanket",
+        "description": "Soft throw blanket for cozy home decor."
+    },
+    {
+        "name": "Chocolate Dipped Fruit",
+        "description": "Fruits dipped in rich chocolate, perfect for desserts."
+    },
+    {
+        "name": "Outdoor Mosquito Repellent Lantern",
+        "description": "Lantern that repels mosquitoes while providing light."
+    },
+    {
+        "name": "Smart LED Desk Lamp",
+        "description": "Adjustable lamp with multiple brightness levels and colors."
+    },
+    {
+        "name": "Vegetable Sushi Rolls",
+        "description": "Fresh sushi rolls filled with a variety of vegetables."
+    },
+    {
+        "name": "Spicy Avocado Salsa",
+        "description": "A zesty salsa made from ripe avocados, tomatoes, onions, and jalape\u00f1os, great for dipping or topping."
+    },
+    {
+        "name": "Pasta Maker Machine",
+        "description": "Manual pasta maker for creating fresh pasta at home."
+    },
+    {
+        "name": "Mini Indoor Hydroponic Garden",
+        "description": "Grow herbs indoors with this easy-to-use hydroponic garden system."
+    },
+    {
+        "name": "Garam Masala Spice Blend",
+        "description": "A fragrant Indian spice blend for curries and stews."
+    },
+    {
+        "name": "Rechargeable Hand Warmer",
+        "description": "Portable rechargeable warmer for cold days."
+    },
+    {
+        "name": "Organic Quinoa Chips",
+        "description": "Light and crispy chips made from quinoa, ideal for dipping."
+    },
+    {
+        "name": "Honey Wheat Pretzels",
+        "description": "Crunchy pretzel sticks made with honey and whole wheat."
+    },
+    {
+        "name": "Wall-Mounted Bookshelf",
+        "description": "Floating bookshelf to display your favorite books."
+    },
+    {
+        "name": "Salsa",
+        "description": "Fresh and zesty salsa, perfect for nachos."
+    },
+    {
+        "name": "Popcorn Chicken",
+        "description": "Crispy chicken bites, perfect for dipping."
+    },
+    {
+        "name": "Collapsible Pet Dog Bowl",
+        "description": "Travel-friendly dog bowl that is collapsible for easy storage."
+    },
+    {
+        "name": "Self-Adhesive Wallpaper",
+        "description": "Peel and stick wallpaper for easy home decor changes."
+    },
+    {
+        "name": "Luxury Rolling Makeup Case",
+        "description": "Stylish and spacious case for makeup and beauty products."
+    },
+    {
+        "name": "Dog Training Collar",
+        "description": "Rechargeable training collar for effective behavior training."
+    },
+    {
+        "name": "Chickpea Salad Deluxe",
+        "description": "Chickpeas mixed with fresh vegetables and herbs, a nutritious snack or salad."
+    },
+    {
+        "name": "Travel Mug",
+        "description": "Stainless steel travel mug with spill-proof lid."
+    },
+    {
+        "name": "Balsamic Fig Dressing",
+        "description": "A sweet and tangy dressing made with figs and balsamic vinegar, great on salads."
+    },
+    {
+        "name": "Garlic & Herb Goat Cheese",
+        "description": "Creamy goat cheese infused with herbs and garlic, perfect for spreading on crackers."
+    },
+    {
+        "name": "Almond Crunch Granola Bars",
+        "description": "Nutty granola bars for healthy snacking."
+    },
+    {
+        "name": "Whole Wheat Bread",
+        "description": "Freshly baked whole wheat bread, rich in fiber."
+    },
+    {
+        "name": "Smoked Salmon",
+        "description": "Deliciously smoked salmon, great for bagels."
+    },
+    {
+        "name": "Herbed Chicken Breast",
+        "description": "Marinated chicken breast seasoned with herbs, ready for grilling."
+    },
+    {
+        "name": "Plaid Flannel Shirt",
+        "description": "Soft flannel shirt with a timeless plaid pattern, perfect for layering."
+    },
+    {
+        "name": "Thai Green Curry Paste",
+        "description": "A rich curry paste for making authentic Thai green curry at home."
+    },
+    {
+        "name": "Quality Chef Apron",
+        "description": "Durable apron to keep clothes clean while cooking."
+    },
+    {
+        "name": "Hibiscus Herbal Tea",
+        "description": "Floral and refreshing herbal tea, great hot or iced."
+    },
+    {
+        "name": "Maple Bacon Potato Chips",
+        "description": "Savory potato chips with a hint of maple sweetness and crispy bacon flavor."
+    },
+    {
+        "name": "Travel Orthopedic Pillow",
+        "description": "Supportive pillow that provides comfort while traveling."
+    },
+    {
+        "name": "Fitness Jump Rope with LCD Counter",
+        "description": "Weighted jump rope that counts jumps and calories burned."
+    },
+    {
+        "name": "Cranberry Almond Granola",
+        "description": "Crunchy granola with oats, almonds, and dried cranberries."
+    },
+    {
+        "name": "Field Journal",
+        "description": "Durable journal for nature observations and notes."
+    },
+    {
+        "name": "Pecan Nuts",
+        "description": "Nutty, crunchy pecans great for baking."
+    },
+    {
+        "name": "Juice Extractor",
+        "description": "Efficient juicer for fresh fruit and vegetable juices."
+    },
+    {
+        "name": "Woven Storage Baskets",
+        "description": "Stylish baskets for organizing various items in your home."
+    },
+    {
+        "name": "Mini Waffle Maker",
+        "description": "Compact waffle maker for perfect small waffles."
+    },
+    {
+        "name": "Water Bottle with Built-in Fruit Infuser",
+        "description": "Stay hydrated with refreshing flavored water."
+    },
+    {
+        "name": "Patterned Knit Scarf",
+        "description": "Add a pop of color with this stylish patterned knit scarf."
+    },
+    {
+        "name": "Coffee Making Kit",
+        "description": "Complete set to brew coffee with different methods."
+    },
+    {
+        "name": "Wrist Support Brace",
+        "description": "Comfortable support brace to relieve wrist pain."
+    },
+    {
+        "name": "Whole Grain Mustard",
+        "description": "Tangy whole grain mustard for sandwiches and dressings."
+    },
+    {
+        "name": "Watercolor Paint Set",
+        "description": "Vibrant watercolor paints that come with brushes and palettes."
+    },
+    {
+        "name": "Chocolate Chip Cookie Mix",
+        "description": "Everything you need to bake delicious chocolate chip cookies."
+    },
+    {
+        "name": "Striped Long Sleeve Shirt",
+        "description": "A casual striped long sleeve shirt that's perfect for layering."
+    },
+    {
+        "name": "Scented Soy Candles",
+        "description": "Hand-poured candles made of natural soy wax."
+    },
+    {
+        "name": "Sustainable Wooden Toys",
+        "description": "Eco-friendly toys for learning and imaginative play."
+    },
+    {
+        "name": "Wall-Mounted Spice Rack",
+        "description": "Space-saving rack to store and organize spices conveniently."
+    },
+    {
+        "name": "Samsung Galaxy Smartwatch",
+        "description": "Stylish smartwatch with fitness tracking and notifications."
+    },
+    {
+        "name": "Rice Cakes",
+        "description": "Light and crispy rice cakes, a perfect low-calorie snack."
+    },
+    {
+        "name": "Vegetable Broth",
+        "description": "Rich vegetable broth for soups and stews."
+    },
+    {
+        "name": "Grapes (red)",
+        "description": "Fresh seedless red grapes, perfect for snacking."
+    },
+    {
+        "name": "Lentil Soup",
+        "description": "Flavorful lentil soup, perfect for a quick meal."
+    },
+    {
+        "name": "Juice Extractor",
+        "description": "Efficient juicer for fresh fruit and vegetable juices."
+    },
+    {
+        "name": "Frozen Hash Browns",
+        "description": "Shredded potatoes, perfect for breakfasts."
+    },
+    {
+        "name": "Instant Read Meat Thermometer",
+        "description": "Fast and accurate thermometer for grilling and cooking."
+    },
+    {
+        "name": "Over-Ear Headphones",
+        "description": "Comfortable over-ear headphones with deep bass."
+    },
+    {
+        "name": "Whipped Cream Cheese",
+        "description": "Light and fluffy cream cheese, perfect for bagels or cooking."
+    },
+    {
+        "name": "Garden Hoses with Expandable Features",
+        "description": "Lightweight, expandable hoses for easy handling."
+    },
+    {
+        "name": "Pet Safety Belt for Car",
+        "description": "Seat belt attachment to keep dogs safe during car rides."
+    },
+    {
+        "name": "Electric Griddle",
+        "description": "Large electric griddle for family meals."
+    },
+    {
+        "name": "Lemon Garlic Shrimp",
+        "description": "Marinated shrimp in a garlic and lemon sauce, perfect for grilling."
+    },
+    {
+        "name": "Kitchen Scale",
+        "description": "Digital scale for precise cooking measurements."
+    },
+    {
+        "name": "LED Flashing Pet Collar",
+        "description": "Safety collar with flashing lights for pets during night walks."
+    },
+    {
+        "name": "Spaghetti Squash",
+        "description": "Low-carb vegetable for pasta alternatives."
+    },
+    {
+        "name": "High-Waisted Skirt",
+        "description": "Chic high-waisted skirt, perfect for professional or casual settings."
+    },
+    {
+        "name": "Mediterranean Chickpea Salad",
+        "description": "A refreshing salad with chickpeas, cucumber, tomatoes, and a light vinaigrette dressing."
+    },
+    {
+        "name": "Chocolate Chip Cookie Dough",
+        "description": "Ready-to-bake cookie dough packed with chocolate chips."
+    },
+    {
+        "name": "Chipotle Sauce",
+        "description": "Spicy sauce made with chipotle peppers"
+    },
+    {
+        "name": "Insulated Cooler",
+        "description": "Leak-proof cooler bag ideal for picnics and camping."
+    },
+    {
+        "name": "Dark Chocolate Covered Almonds",
+        "description": "Roasted almonds dipped in rich dark chocolate."
+    },
+    {
+        "name": "Stainless Steel Cutlery Set",
+        "description": "High-quality cutlery set for daily use or special occasions."
+    },
+    {
+        "name": "Organic Granola Cereal",
+        "description": "Crunchy granola made with organic oats"
+    },
+    {
+        "name": "Wine Glasses",
+        "description": "Set of elegant wine glasses for special occasions."
+    },
+    {
+        "name": "Herbal Tea Set",
+        "description": "Assorted herbal tea bags for relaxation and wellness."
+    },
+    {
+        "name": "Cucumber",
+        "description": "Fresh and crunchy cucumbers, great for salads."
+    },
+    {
+        "name": "Chickpea Salad Deluxe",
+        "description": "Chickpeas mixed with fresh vegetables and herbs, a nutritious snack or salad."
+    },
+    {
+        "name": "Fitness Jump Rope",
+        "description": "Durable jump rope for cardio workouts."
+    },
+    {
+        "name": "Vacuum Sealer Machine",
+        "description": "Seal food and maintain freshness longer."
+    },
+    {
+        "name": "Coconut Curry Lentils",
+        "description": "Lentils cooked in a coconut curry for a hearty meal."
+    },
+    {
+        "name": "Honey Butter Popcorn",
+        "description": "Light and fluffy popcorn coated in sweet honey butter."
+    },
+    {
+        "name": "Savory Oatmeal",
+        "description": "Oatmeal made with savory spices and vegetables."
+    },
+    {
+        "name": "Cinnamon Raisin Bread",
+        "description": "Sweet bread with cinnamon and raisins, great for breakfast or snacks."
+    },
+    {
+        "name": "Asian Noodle Salad Kit",
+        "description": "A pre-packaged salad kit with noodles and Asian-style dressing."
+    },
+    {
+        "name": "Peanut Butter",
+        "description": "Creamy and smooth peanut butter, perfect for sandwiches."
+    },
+    {
+        "name": "Camera Tripod",
+        "description": "Sturdy camera tripod for professional photography."
+    },
+    {
+        "name": "Wireless Wi-Fi Extender",
+        "description": "Boosts your Wi-Fi coverage for better connectivity."
+    },
+    {
+        "name": "Pet Bed",
+        "description": "Comfortable pet bed for small to medium-sized dogs."
+    },
+    {
+        "name": "Pet Travel Backpack Carrier",
+        "description": "Comfortable carry for pets while hiking or traveling."
+    },
+    {
+        "name": "Essential Oil Roller Bottles",
+        "description": "Set of roller bottles for blending and applying essential oils."
+    },
+    {
+        "name": "Rainbow Veggie Chips",
+        "description": "Colorful veggie chips made from beets, carrots, and sweet potatoes."
+    },
+    {
+        "name": "Lemon Herb Grilled Chicken",
+        "description": "Tender grilled chicken marinated in lemon herbs."
+    },
+    {
+        "name": "Natural Fruit Snacks",
+        "description": "Healthy fruit snacks, made with real fruit."
+    },
+    {
+        "name": "Spicy Thai Chili Sauce",
+        "description": "A sweet and spicy sauce for dipping or cooking."
+    },
+    {
+        "name": "Herbal Garden Starter Kit",
+        "description": "Indoor gardening kit with herbs and pots."
+    },
+    {
+        "name": "Tomato Basil Soup",
+        "description": "A classic soup combining tomatoes and basil, great with grilled cheese sandwiches."
+    },
+    {
+        "name": "Portable Laptop Table",
+        "description": "Foldable table for working with laptops anywhere."
+    },
+    {
+        "name": "Cucumber Lime Sparkling Water",
+        "description": "Refreshing sparkling water with cucumber and lime flavor."
+    },
+    {
+        "name": "Blackberry Compote",
+        "description": "Sweet blackberry compote, perfect for topping desserts."
+    },
+    {
+        "name": "Rice Noodles",
+        "description": "Thin rice noodles, ideal for stir-fries and soups."
+    },
+    {
+        "name": "LED Strip Lights",
+        "description": "Colorful LED strip lights for home decoration."
+    },
+    {
+        "name": "Cordless Electric Screwdriver",
+        "description": "Rechargeable screwdriver with multiple bits for DIY projects."
+    },
+    {
+        "name": "LED Strip Lights Kit",
+        "description": "DIY LED strip lights with remote control."
+    },
+    {
+        "name": "Rainbow Veggie Chips",
+        "description": "Colorful veggie chips made from beets, carrots, and sweet potatoes."
+    },
+    {
+        "name": "Roasted Garlic Mashed Potatoes",
+        "description": "Creamy mashed potatoes infused with roasted garlic flavor."
+    },
+    {
+        "name": "Truffle Parmesan Fries",
+        "description": "Crispy fries tossed in truffle oil and parmesan, a gourmet snack."
+    },
+    {
+        "name": "Mango Chunks",
+        "description": "Frozen mango chunks for smoothies or snacking."
+    },
+    {
+        "name": "Fitness Tracker Watch",
+        "description": "Water-resistant activity tracker and smartwatch features."
+    },
+    {
+        "name": "Self-Stirring Mug",
+        "description": "Automated stirring for your drinks with just a press of a button."
+    },
+    {
+        "name": "Turkey Bacon",
+        "description": "Delicious turkey bacon, a healthier alternative."
+    },
+    {
+        "name": "Electric Razor",
+        "description": "Rechargeable electric razor for a smooth shave."
+    },
+    {
+        "name": "Portable Grill Cover",
+        "description": "Durable cover to protect your grill from the elements."
+    },
+    {
+        "name": "Nordic Berry Smoothie",
+        "description": "Frozen smoothie blend with berries for a quick and healthy breakfast."
+    },
+    {
+        "name": "Almond Butter",
+        "description": "Creamy almond butter made from roasted almonds."
+    },
+    {
+        "name": "Creamy Garlic Dressing",
+        "description": "Rich and creamy dressing with garlic flavor, perfect for salads."
+    },
+    {
+        "name": "Laptop Stand",
+        "description": "Adjustable laptop stand for better ergonomics."
+    },
+    {
+        "name": "Outdoor Camping Lantern",
+        "description": "Rechargeable LED lantern ideal for camping and outdoor activities."
+    },
+    {
+        "name": "Sweet Potato and Chickpea Bowl",
+        "description": "A nourishing bowl of sweet potatoes and chickpeas with spices."
+    },
+    {
+        "name": "Chickpeas",
+        "description": "Canned chickpeas, perfect for hummus or salads."
+    },
+    {
+        "name": "Colorful Post-It Notes Set",
+        "description": "Variety pack of sticky notes in different colors and sizes."
+    },
+    {
+        "name": "Chocolate Fudge Ice Cream",
+        "description": "Rich and creamy chocolate fudge ice cream for dessert."
+    },
+    {
+        "name": "Insulated Lunch Box",
+        "description": "Durable lunch box designed to keep food fresh and cool."
+    },
+    {
+        "name": "Kids' Crafting Station",
+        "description": "Complete station with supplies for kids' art projects."
+    },
+    {
+        "name": "Garlic Butter Shrimp",
+        "description": "Frozen shrimp saut\u00e9ed in garlic butter, ready to thaw and serve over pasta or rice."
+    },
+    {
+        "name": "Crispy Rice Treats",
+        "description": "Classic marshmallow treats made with crispy rice."
+    },
+    {
+        "name": "Chocolate Chip Muffins",
+        "description": "Fresh baked chocolate chip muffins for breakfast."
+    },
+    {
+        "name": "Weighted Jump Rope",
+        "description": "Adjustable weighted jump rope for workouts."
+    },
+    {
+        "name": "Car Vacuum",
+        "description": "Portable car vacuum cleaner with strong suction."
+    },
+    {
+        "name": "Wild Rice Pilaf",
+        "description": "A mix of wild rice with herbs and spices, ready to serve."
+    },
+    {
+        "name": "Laptop Backpack",
+        "description": "Water-resistant laptop backpack with multiple compartments."
+    },
+    {
+        "name": "Grilled Vegetable Medley",
+        "description": "A mix of grilled vegetables, ready to heat for quick side dishes."
+    },
+    {
+        "name": "Mini Air Hockey Table",
+        "description": "Fun tabletop air hockey for home or office."
+    },
+    {
+        "name": "Pineapple Coconut Rice Mix",
+        "description": "A flavorful blend of rice with tropical pineapple and coconut flavors."
+    },
+    {
+        "name": "Sports Bottle",
+        "description": "BPA-free sports bottle with flip-top lid."
+    },
+    {
+        "name": "Smart Thermostat",
+        "description": "Wi-Fi enabled thermostat for energy-saving temperature control."
+    },
+    {
+        "name": "Grilled Vegetable Medley",
+        "description": "A mix of grilled vegetables, ready to heat for quick side dishes."
+    },
+    {
+        "name": "Halloween Decoration Set",
+        "description": "Fun decorations for Halloween to set a spooky atmosphere."
+    },
+    {
+        "name": "Pesto Pasta Salad",
+        "description": "Cold pasta salad tossed with pesto and fresh vegetables."
+    },
+    {
+        "name": "Tomato Sauce",
+        "description": "Rich and flavorful tomato sauce for pasta or pizza."
+    },
+    {
+        "name": "Ceramic Bakeware Set",
+        "description": "Durable ceramic bakeware for casseroles and desserts."
+    },
+    {
+        "name": "Bamboo Cutting Board Set",
+        "description": "Eco-friendly bamboo cutting boards in various sizes."
+    },
+    {
+        "name": "Honey Garlic Chicken",
+        "description": "Tender chicken coated in a sweet and savory honey garlic sauce."
+    },
+    {
+        "name": "Smart LED Light Strip",
+        "description": "Customizable RGB LED light strip, perfect for mood lighting."
+    },
+    {
+        "name": "High-Low Hem Tee",
+        "description": "Trendy high-low tee with a relaxed fit, ideal for weekends."
+    },
+    {
+        "name": "Cheddar Cheese Crackers",
+        "description": "Crunchy crackers topped with real cheddar cheese flavor."
+    },
+    {
+        "name": "Whole Chicken",
+        "description": "A whole free-range chicken, ready for roasting."
+    },
+    {
+        "name": "Cilantro Lime Rice",
+        "description": "Easy-to-prepare rice with cilantro and lime flavors, great as a side."
+    },
+    {
+        "name": "Utility Cargo Pants",
+        "description": "Practical cargo pants with lots of pockets for functionality."
+    },
+    {
+        "name": "Garlic and Herb Cream Cheese",
+        "description": "Spreadable cream cheese with garlic and herbs."
+    },
+    {
+        "name": "Deluxe First Aid Kit",
+        "description": "Comprehensive first aid kit for home and travel."
+    },
+    {
+        "name": "Salsa Verde",
+        "description": "Tangy green salsa made with tomatillos, perfect for tacos."
+    },
+    {
+        "name": "Kids' Building Blocks",
+        "description": "Colorful building blocks for creative play."
+    },
+    {
+        "name": "LED Desk Lamp with USB Charging",
+        "description": "Stylish desk lamp featuring a USB charging port."
+    },
+    {
+        "name": "Smart Home Hub",
+        "description": "Connect and control smart devices from one app."
+    },
+    {
+        "name": "Classic Cheesecake Mix",
+        "description": "A simple, no-bake cheesecake mix to create your own delicious cheesecake."
+    },
+    {
+        "name": "Maple Almond Butter",
+        "description": "Creamy almond butter sweetened with maple syrup for a delicious spread."
+    },
+    {
+        "name": "Chickpea Salad Deluxe",
+        "description": "Chickpeas mixed with fresh vegetables and herbs, a nutritious snack or salad."
+    },
+    {
+        "name": "Electric Rice Cooker",
+        "description": "Multi-function rice cooker for all types of rice recipes."
+    },
+    {
+        "name": "Bodyweight Resistance Bands",
+        "description": "Set of resistance bands for strength training at home."
+    },
+    {
+        "name": "Avocados",
+        "description": "Fresh, creamy avocados ideal for salads and guacamole."
+    },
+    {
+        "name": "Cocktail Shaker and Mixing Glass Set",
+        "description": "Complete set for mixing cocktails at home."
+    },
+    {
+        "name": "Sunflower Seeds",
+        "description": "Salted sunflower seeds perfect for snacking."
+    },
+    {
+        "name": "Frozen Spinach",
+        "description": "Chopped and frozen spinach, ideal for cooking and smoothies."
+    },
+    {
+        "name": "Cinnamon Sugar Donuts",
+        "description": "Delicious mini donuts dusted with cinnamon sugar."
+    },
+    {
+        "name": "Maple Bacon Jerky",
+        "description": "Savory bacon jerky coated with maple flavoring."
+    },
+    {
+        "name": "Casual Sneakers",
+        "description": "Versatile canvas sneakers suitable for everyday wear with a comfortable fit."
+    },
+    {
+        "name": "Herb Garden Planter Box",
+        "description": "Elevated planter box for growing herbs or small plants easily."
+    },
+    {
+        "name": "Raspberry Vanilla Greek Yogurt",
+        "description": "Creamy Greek yogurt infused with raspberry and vanilla flavors."
+    },
+    {
+        "name": "Water Bottle",
+        "description": "Insulated water bottle for keeping drinks cold."
+    },
+    {
+        "name": "Watering Can with Nozzle",
+        "description": "Stylish watering can for plants with easy pouring nozzle."
+    },
+    {
+        "name": "Handmade Wooden Utensil Set",
+        "description": "Unique handcrafted utensils for cooking and serving."
+    },
+    {
+        "name": "Herb Garlic Butter",
+        "description": "A flavorful garlic butter blend, perfect for cooking or baking."
+    },
+    {
+        "name": "Buffalo Style Cauliflower Bites",
+        "description": "Frozen cauliflower bites coated in spicy buffalo sauce, ready to bake and enjoy as an appetizer."
+    },
+    {
+        "name": "Artisan Bread Loaf",
+        "description": "Fresh artisan bread, perfect for sandwiches"
+    },
+    {
+        "name": "Whisk Set",
+        "description": "Set of whisks in various sizes for cooking."
+    },
+    {
+        "name": "Rolling Cooler",
+        "description": "Wheeled cooler for transporting drinks and snacks."
+    },
+    {
+        "name": "Wooden Children's Play Kitchen",
+        "description": "Interactive kitchen set for imaginative play."
+    },
+    {
+        "name": "Sesame Oil",
+        "description": "Nutty-scented oil for stir-fry and marinades."
+    },
+    {
+        "name": "Portable Air Purifier",
+        "description": "Compact air purifier to improve indoor air quality."
+    },
+    {
+        "name": "Fettuccine Alfredo Dinner Kit",
+        "description": "Easy meal kit for creamy fettuccine Alfredo."
+    },
+    {
+        "name": "Reusable Coffee Filter",
+        "description": "Eco-friendly coffee filter for brewing."
+    },
+    {
+        "name": "Chickpea Salad Deluxe",
+        "description": "Chickpeas mixed with fresh vegetables and herbs, a nutritious snack or salad."
+    },
+    {
+        "name": "Caramel Sauce",
+        "description": "Rich sauce for desserts and ice cream."
+    },
+    {
+        "name": "Fruit Medley Juice",
+        "description": "Refreshing juice blend made with various fresh fruits."
+    },
+    {
+        "name": "Chocolate Chip Cookie Dough",
+        "description": "Ready-to-bake cookie dough packed with chocolate chips."
+    },
+    {
+        "name": "Face Mask Set",
+        "description": "Set of five reusable fabric face masks."
+    },
+    {
+        "name": "Mediterranean Chickpea Salad",
+        "description": "A refreshing salad with chickpeas, cucumber, tomatoes, and a light vinaigrette dressing."
+    },
+    {
+        "name": "Chocolate Mint Cookies",
+        "description": "Delicious cookies with rich chocolate flavor and a hint of mint."
+    },
+    {
+        "name": "Honey Sesame Chicken",
+        "description": "A delicious chicken dish featuring honey and sesame flavors."
+    },
+    {
+        "name": "Home Brewing Starter Kit",
+        "description": "All-in-one kit for brewing beer at home."
+    },
+    {
+        "name": "Gardening Tool Belt",
+        "description": "Convenient belt with pockets for easy access to tools while gardening."
+    },
+    {
+        "name": "Fashionable Belt Bag",
+        "description": "Trendy belt bag for hands-free carrying."
+    },
+    {
+        "name": "Honey Graham Crackers",
+        "description": "Sweet and crunchy honey-flavored graham crackers."
+    },
+    {
+        "name": "Organic Granola Cereal",
+        "description": "Crunchy granola made with organic oats"
+    },
+    {
+        "name": "Cordless Electric Screwdriver",
+        "description": "Rechargeable screwdriver with multiple bits for DIY projects."
+    },
+    {
+        "name": "LED Christmas Tree Lights",
+        "description": "String lights for decorating holiday trees."
+    },
+    {
+        "name": "Elegant Lace Dress",
+        "description": "A stunning lace dress perfect for special occasions."
+    },
+    {
+        "name": "Whole Grain Cereal",
+        "description": "Healthy whole grain cereal, great for breakfast."
+    },
+    {
+        "name": "Almond Joy Snack Bars",
+        "description": "Chewy snack bars with coconut and almonds coated in chocolate."
+    },
+    {
+        "name": "Bamboo Utensil Set",
+        "description": "Sustainable bamboo utensils for cooking and serving."
+    },
+    {
+        "name": "Soft Plush Throw Blanket",
+        "description": "Cozy throw blanket perfect for chilly evenings."
+    },
+    {
+        "name": "Steak Seasoning Rub",
+        "description": "A blend of spices perfect for seasoning steak."
+    },
+    {
+        "name": "Spicy Chicken Wings",
+        "description": "Wide range of flavored wings, perfect for parties or casual snacking."
+    },
+    {
+        "name": "Multicolored LED Strip Lights",
+        "description": "Flexible LED lights for creative home lighting designs."
+    },
+    {
+        "name": "Protein Powder",
+        "description": "High-quality whey protein powder for muscle recovery."
+    },
+    {
+        "name": "Jasmine Rice",
+        "description": "Fragrant jasmine rice, perfect as a side dish."
+    },
+    {
+        "name": "Vegetable Spring Rolls",
+        "description": "Crispy spring rolls filled with vegetables"
+    },
+    {
+        "name": "Adjustable Garden Rake",
+        "description": "Heavy-duty rake with adjustable width for different gardening needs."
+    },
+    {
+        "name": "Portable Bluetooth Speaker",
+        "description": "Compact Bluetooth speaker with rich sound quality."
+    },
+    {
+        "name": "Feta Cheese",
+        "description": "Tangy feta cheese, perfect for salads and sandwiches."
+    },
+    {
+        "name": "Raisin Cinnamon Granola",
+        "description": "Crunchy granola with raisins and cinnamon for a delightful breakfast."
+    },
+    {
+        "name": "Shatterproof Wine Glasses",
+        "description": "Durable, unbreakable wine glasses for outdoor use."
+    },
+    {
+        "name": "Stainless Steel Mixing Bowls",
+        "description": "Set of versatile mixing bowls for cooking."
+    },
+    {
+        "name": "Stainless Steel Travel Mug",
+        "description": "Insulated mug to keep drinks hot on the go."
+    },
+    {
+        "name": "Spaghetti Squash",
+        "description": "Low-carb vegetable for pasta alternatives."
+    },
+    {
+        "name": "Face Mask Set",
+        "description": "Set of five reusable fabric face masks."
+    },
+    {
+        "name": "Drone",
+        "description": "Beginner-friendly drone with HD camera."
+    },
+    {
+        "name": "Magnetic Spice Jars",
+        "description": "Convenient magnetic jars for easy spice storage."
+    },
+    {
+        "name": "Pine Nuts",
+        "description": "Nutty flavor perfect for pesto and salads."
+    },
+    {
+        "name": "Spicy Roasted Nuts",
+        "description": "A mix of nuts roasted with spicy seasonings, perfect for snacking."
+    },
+    {
+        "name": "Organic Italian Seasoning",
+        "description": "A blend of dried herbs commonly used in Italian cooking."
+    },
+    {
+        "name": "Honey BBQ Ribs",
+        "description": "Tender ribs smothered in a honey barbecue sauce."
+    },
+    {
+        "name": "Instant Camera",
+        "description": "Retro instant camera for capturing and printing photos instantly."
+    },
+    {
+        "name": "Coconut Oil Spray",
+        "description": "A zero-calorie coconut oil spray for cooking and baking."
+    },
+    {
+        "name": "Wall Calendar",
+        "description": "Beautiful wall calendar for organizing your schedule."
+    },
+    {
+        "name": "Greek Yogurt Parfait",
+        "description": "Layered Greek yogurt with granola and mixed berries, ready to enjoy."
+    },
+    {
+        "name": "Caramel Sauce",
+        "description": "Rich sauce for desserts and ice cream."
+    },
+    {
+        "name": "Organic Apples",
+        "description": "Crisp and delicious organic apples."
+    },
+    {
+        "name": "Classic Black Trousers",
+        "description": "Timeless black trousers for a smart and sophisticated look."
+    },
+    {
+        "name": "Pleated Midi Dress",
+        "description": "A stylish midi dress with stylish pleats, suitable for any occasion."
+    },
+    {
+        "name": "Portable Speaker Stand",
+        "description": "Adjustable stand for portable speakers and devices."
+    },
+    {
+        "name": "Honey Wheat Pretzels",
+        "description": "Crunchy pretzel sticks made with honey and whole wheat."
+    },
+    {
+        "name": "Teriyaki Chicken Bowl",
+        "description": "Ready-to-eat chicken bowl with teriyaki sauce and rice."
+    },
+    {
+        "name": "Home Brewing Starter Kit",
+        "description": "All-in-one kit for brewing beer at home."
+    },
+    {
+        "name": "Dog Waste Bag Dispenser",
+        "description": "Convenient dispenser for dog waste bags on walks."
+    },
+    {
+        "name": "Scented Candles",
+        "description": "Set of three aromatic candles with various scents."
+    },
+    {
+        "name": "Pet Hair Removal Brush",
+        "description": "Effective brush for removing loose hair from pets."
+    },
+    {
+        "name": "Self-Inflating Camping Mattress",
+        "description": "Comfortable camping mattress that inflates automatically."
+    },
+    {
+        "name": "Fitness Tracker Watch",
+        "description": "Water-resistant activity tracker and smartwatch features."
+    },
+    {
+        "name": "Smart LED Light Strip",
+        "description": "Customizable RGB LED light strip, perfect for mood lighting."
+    },
+    {
+        "name": "Travel Document Organizer",
+        "description": "Organize travel documents, passport, and cards."
+    },
+    {
+        "name": "Bamboo Toothbrush",
+        "description": "Eco-friendly bamboo toothbrush for sustainable living."
+    },
+    {
+        "name": "Poppy Seed Dressing",
+        "description": "A light and tangy dressing with poppy seeds, perfect for salads."
+    },
+    {
+        "name": "Hibiscus Herbal Tea",
+        "description": "Floral and refreshing herbal tea, great hot or iced."
+    },
+    {
+        "name": "Personalized Pet ID Tags",
+        "description": "Custom engraved ID tags for pets with your contact information."
+    },
+    {
+        "name": "LED Desk Lamp with USB Charging",
+        "description": "Stylish desk lamp featuring a USB charging port."
+    },
+    {
+        "name": "Portable Massage Gun",
+        "description": "Personal massager for muscle recovery."
+    },
+    {
+        "name": "Lemonade Mix",
+        "description": "Sweetened powder for refreshing lemonade."
+    },
+    {
+        "name": "Coconut Yogurt",
+        "description": "Creamy yogurt made from coconut milk, dairy-free and delicious."
+    },
+    {
+        "name": "Fruit and Nut Bars",
+        "description": "Individually packaged bars made with dried fruits and nuts."
+    },
+    {
+        "name": "Key Finder",
+        "description": "Bluetooth-enabled key tracker to find lost items easily."
+    },
+    {
+        "name": "Sweet Potatoes (organic)",
+        "description": "Fresh organic sweet potatoes, great for roasting or mashing."
+    },
+    {
+        "name": "Organic Coconut Water",
+        "description": "Refreshing coconut water packed with electrolytes for hydration."
+    },
+    {
+        "name": "Biodegradable Phone Case",
+        "description": "Eco-friendly phone case designed to decompose safely."
+    },
+    {
+        "name": "Maple Almond Yogurt",
+        "description": "Creamy yogurt made with maple and almond flavors."
+    },
+    {
+        "name": "Wireless Induction Charger",
+        "description": "Qi-certified charger for fast wireless charging of smartphones."
+    },
+    {
+        "name": "Harvest Grain Salad",
+        "description": "A hearty salad with grains, dried fruits, and nuts."
+    },
+    {
+        "name": "Buffalo Cauliflower Wings",
+        "description": "Crispy cauliflower bites tossed in spicy buffalo sauce."
+    },
+    {
+        "name": "Robot Vacuum Cleaner",
+        "description": "Smart robotic vacuum for automatic cleaning."
+    },
+    {
+        "name": "Mini Indoor Herb Garden Kit",
+        "description": "All-in-one kit for growing herbs in your kitchen."
+    },
+    {
+        "name": "Organic Coconut Water",
+        "description": "Refreshing coconut water packed with electrolytes for hydration."
+    },
+    {
+        "name": "Chickpea Flour",
+        "description": "Gluten-free flour made from ground chickpeas, great for cooking."
+    },
+    {
+        "name": "Turkey Bacon",
+        "description": "Delicious turkey bacon, a healthier alternative."
+    },
+    {
+        "name": "Magnetic Puzzle Board",
+        "description": "Magnetic puzzle assembly board for kids."
+    },
+    {
+        "name": "Pet Safety Harness",
+        "description": "Comfortable harness designed to keep pets safe in the car."
+    },
+    {
+        "name": "Oven-Baked Potato Chips",
+        "description": "Light and crispy baked potato chips in assorted flavors."
+    },
+    {
+        "name": "Artisan Bread Loaf",
+        "description": "Fresh artisan bread, perfect for sandwiches"
+    },
+    {
+        "name": "Automatic Pet Feeder",
+        "description": "Programmable pet feeder for scheduled meals."
+    },
+    {
+        "name": "Luxury Bathrobe",
+        "description": "Soft and cozy bathrobe perfect for relaxing at home."
+    },
+    {
+        "name": "Luxury Bath Robe",
+        "description": "Soft and plush robe for comfort after the shower."
+    },
+    {
+        "name": "Garden Vegetable Chips",
+        "description": "Crispy chips made from assorted garden vegetables, lightly salted."
+    },
+    {
+        "name": "Electric Kettle",
+        "description": "Rapid boil electric kettle with temperature control."
+    },
+    {
+        "name": "Ergonomic Gaming Chair",
+        "description": "Comfortable gaming chair for long hours of play."
+    },
+    {
+        "name": "Lentil Vegetable Curry",
+        "description": "A flavorful lentil curry cooked with vegetables and spices."
+    },
+    {
+        "name": "Electric Egg Cooker",
+        "description": "Automatically cooks eggs to your desired level."
+    },
+    {
+        "name": "Portable Air Compressor",
+        "description": "Compact air compressor for inflating tires and sports equipment."
+    },
+    {
+        "name": "Electronic Drum Kit",
+        "description": "Compact electronic drum kit for musicians of all levels."
+    },
+    {
+        "name": "Almond Flour Brownies",
+        "description": "Deliciously rich brownies made with almond flour."
+    },
+    {
+        "name": "Coconut Oil Spray",
+        "description": "A zero-calorie coconut oil spray for cooking and baking."
+    },
+    {
+        "name": "Ginger Snaps",
+        "description": "Spicy ginger cookies that are crunchy and delicious."
+    },
+    {
+        "name": "Pumpkin Spice Cookies",
+        "description": "Delicious cookies flavored with pumpkin and spices."
+    },
+    {
+        "name": "Bicycle Lock",
+        "description": "Heavy-duty bicycle lock for security."
+    },
+    {
+        "name": "Electric Griddle",
+        "description": "Large electric griddle for family meals."
+    },
+    {
+        "name": "Kids' Trampoline",
+        "description": "Safe and fun trampoline for children."
+    },
+    {
+        "name": "Herbed Couscous",
+        "description": "Quick-cooking couscous flavored with herbs and spices."
+    },
+    {
+        "name": "Creamy Avocado Dip",
+        "description": "Rich and creamy dip made with real avocado, great for chips."
+    },
+    {
+        "name": "Mechanical Pencil Set",
+        "description": "Precision pencils for drawing, sketching, and writing."
+    },
+    {
+        "name": "Instant Mashed Potatoes",
+        "description": "Quick and easy side dish with buttery flavor."
+    },
+    {
+        "name": "Savory Mushroom Risotto",
+        "description": "Creamy risotto infused with wild mushrooms."
+    },
+    {
+        "name": "Nail Polish Set",
+        "description": "Assorted nail polish set for vibrant nails."
+    },
+    {
+        "name": "Personal Blender with Travel Cup",
+        "description": "Blender for smoothies with a portable cup."
+    },
+    {
+        "name": "Mango Chili Salsa",
+        "description": "A sweet and spicy salsa made with mangoes and a hint of chili, great with chips or grilled chicken."
+    },
+    {
+        "name": "Ramen Noodle Soup Cups",
+        "description": "Instant ramen cups with flavor-packed broth."
+    },
+    {
+        "name": "Insulated Sport Tumbler",
+        "description": "Vacuum-insulated tumbler for beverages on the go."
+    },
+    {
+        "name": "Veggie Burger Patties",
+        "description": "Delicious veggie burger patties for grilling or frying."
+    },
+    {
+        "name": "Nut Butter Cups",
+        "description": "Delicious dark chocolate with creamy nut butter inside."
+    },
+    {
+        "name": "Maple Almond Granola",
+        "description": "Crunchy granola with maple flavor and almond pieces for breakfast."
+    },
+    {
+        "name": "Sliced Strawberries",
+        "description": "Fresh sliced strawberries for toppings or snacking"
+    },
+    {
+        "name": "BBQ Lentil Chips",
+        "description": "Savory lentil chips with BBQ flavor"
+    },
+    {
+        "name": "Outdoor Picnic Blanket",
+        "description": "Water-resistant blanket for picnics and outdoor events."
+    },
+    {
+        "name": "Stylish Combat Boots",
+        "description": "Bold combat boots that make a statement with any outfit."
+    },
+    {
+        "name": "Portable Refrigerator Freezer",
+        "description": "Compact fridge ideal for camping and road trips."
+    },
+    {
+        "name": "Chocolate Protein Powder",
+        "description": "Rich chocolate protein powder for smoothies and baking."
+    },
+    {
+        "name": "Sesame Garlic Noodles",
+        "description": "Delicious noodles tossed in a sesamegarlic sauce."
+    },
+    {
+        "name": "Whole Grain Cereal",
+        "description": "Healthy whole grain cereal, great for breakfast."
+    },
+    {
+        "name": "Electric Wax Warmer",
+        "description": "Wax warmer for creating a soothing atmosphere with fragrances."
+    },
+    {
+        "name": "Outdoor String Lights",
+        "description": "Fairy lights perfect for decorating patios and backyards."
+    },
+    {
+        "name": "Crispy Onion Rings",
+        "description": "Frozen onion rings, crispy and ready to bake."
+    },
+    {
+        "name": "Microfiber Cleaning Cloths",
+        "description": "Pack of ultra-soft microfiber cloths for cleaning."
+    },
+    {
+        "name": "Blender Bottle",
+        "description": "Portable mixer bottle for smoothies and protein shakes."
+    },
+    {
+        "name": "Siphon Coffee Maker",
+        "description": "Unique coffee brewing method for a flavorful experience."
+    },
+    {
+        "name": "Marinara Sauce",
+        "description": "Classic marinara sauce for all pasta dishes."
+    },
+    {
+        "name": "Basil-infused Olive Oil",
+        "description": "Extra virgin olive oil infused with fresh basil."
+    },
+    {
+        "name": "Digital Kitchen Timer",
+        "description": "Easy-to-read digital kitchen timer with alarms."
+    },
+    {
+        "name": "Stainless Steel Cutlery Set",
+        "description": "High-quality cutlery set for daily use or special occasions."
+    },
+    {
+        "name": "Honey-Balsamic Vinaigrette",
+        "description": "A sweet and tangy vinaigrette dressing for salads."
+    },
+    {
+        "name": "Pet Travel Bowl",
+        "description": "Collapsible travel bowl for pets on the go."
+    },
+    {
+        "name": "Camping Tarp",
+        "description": "Durable tarp for outdoor camping and protection."
+    },
+    {
+        "name": "Ceramic Bakeware Set",
+        "description": "Durable ceramic bakeware for casseroles and desserts."
+    },
+    {
+        "name": "Car Vacuum",
+        "description": "Portable car vacuum cleaner with strong suction."
+    },
+    {
+        "name": "Creamy Coleslaw Mix",
+        "description": "Shredded cabbage and carrots for coleslaw."
+    },
+    {
+        "name": "Creamy Tomato Basil Soup",
+        "description": "Rich and creamy tomato basil soup, perfect with a grilled cheese."
+    },
+    {
+        "name": "Car Diagnostic Scanner",
+        "description": "Tool to check car engine codes and performance issues."
+    },
+    {
+        "name": "Electric Skillet",
+        "description": "Versatile electric skillet for stir-frying and searing."
+    },
+    {
+        "name": "Vegetarian Sausage Links",
+        "description": "Plant-based sausage links with spices and herbs."
+    },
+    {
+        "name": "Digital Alarm Clock",
+        "description": "Snooze function and LED display for easy reading."
+    },
+    {
+        "name": "Honey Nut Cheerios",
+        "description": "Classic cereal made with whole grains and honey."
+    },
+    {
+        "name": "Raspberry Lemonade Mix",
+        "description": "A refreshing drink mix that combines sweet raspberries and tart lemons, perfect for summer."
+    },
+    {
+        "name": "Multifunctional Pocket Tool",
+        "description": "Compact pocket tool with various built-in functions."
+    },
+    {
+        "name": "Camping Tent",
+        "description": "Spacious 2-person camping tent with waterproof cover."
+    },
+    {
+        "name": "Smartphone Projector Kit",
+        "description": "DIY kit to convert your smartphone into a mini projector."
+    },
+    {
+        "name": "Reusable Produce Bags Set",
+        "description": "Eco-friendly mesh bags for shopping produce at the market."
+    },
+    {
+        "name": "Classic Black Trousers",
+        "description": "Timeless black trousers for a smart and sophisticated look."
+    },
+    {
+        "name": "Artisan Flatbreads",
+        "description": "Thin and crispy flatbreads, perfect for dips."
+    },
+    {
+        "name": "Vegan Caesar Dressing",
+        "description": "Creamy vegan dressing made with cashews, perfect for salads."
+    },
+    {
+        "name": "Pineapple Rings",
+        "description": "Delicious canned pineapple rings for desserts or salads."
+    },
+    {
+        "name": "Dark Chocolate Covered Pretzels",
+        "description": "Crunchy pretzels dipped in rich dark chocolate."
+    },
+    {
+        "name": "Interactive Robot Toy",
+        "description": "Fun robot that engages kids with games and activities."
+    },
+    {
+        "name": "Honey mustard chicken tenders",
+        "description": "Golden crispy chicken tenders coated with honey mustard flavor."
+    },
+    {
+        "name": "Chocolate Chip Cliff Bars",
+        "description": "Nutritious energy bars packed with chocolate chips."
+    },
+    {
+        "name": "Trail Mix (Deluxe)",
+        "description": "A delightful mix of nuts, fruit, and chocolate."
+    },
+    {
+        "name": "Cereal Dispenser with Portion Control",
+        "description": "Maintain freshness and dispense cereal easily."
+    },
+    {
+        "name": "Window A/C Unit",
+        "description": "Energy-efficient window air conditioner for cooling."
+    },
+    {
+        "name": "Savory Pumpkin Soup",
+        "description": "Creamy pumpkin soup with spices"
+    },
+    {
+        "name": "Sweet Chili Dipping Sauce",
+        "description": "A sweet and spicy sauce ideal for spring rolls or chicken nuggets."
+    },
+    {
+        "name": "Honey Mustard Chicken Breasts",
+        "description": "Marinated chicken breasts coated in a sweet honey mustard glaze."
+    },
+    {
+        "name": "Self-Cleaning Water Bottle",
+        "description": "Water bottle with built-in UV-C light for self-cleaning."
+    },
+    {
+        "name": "Garden Tool Belt",
+        "description": "Handy belt for carrying garden tools while working."
+    },
+    {
+        "name": "Coconut Granola",
+        "description": "Crunchy granola mixed with coconut flakes."
+    },
+    {
+        "name": "Organic Granola Cereal",
+        "description": "Crunchy granola made with organic oats"
+    },
+    {
+        "name": "Balsamic Glaze",
+        "description": "Sweet and tangy balsamic reduction for drizzling."
+    },
+    {
+        "name": "Classic Pumps",
+        "description": "Elegant classic pumps that add sophistication to any outfit."
+    },
+    {
+        "name": "Non-Stick Grill Pan",
+        "description": "Heavy-duty grill pan for indoor grilling."
+    },
+    {
+        "name": "Nature Explorer Lens Kit",
+        "description": "Magical lens kit for kids to explore the outdoors."
+    },
+    {
+        "name": "Ground Turkey",
+        "description": "Lean and versatile ground turkey, perfect for various dishes."
+    },
+    {
+        "name": "Coconut Curry Chicken",
+        "description": "Tender chicken cooked in a rich coconut curry sauce, ready to heat and serve."
+    },
+    {
+        "name": "Skincare Fridge",
+        "description": "Small fridge designed to keep skincare products cool and fresh."
+    },
+    {
+        "name": "Survival Gear Kit",
+        "description": "Essential survival gear kit for emergencies."
+    },
+    {
+        "name": "Mint Chocolate Chip Ice Cream",
+        "description": "Creamy ice cream with refreshing mint flavor and chocolate chips."
+    },
+    {
+        "name": "High-Waisted Skirt",
+        "description": "Chic high-waisted skirt, perfect for professional or casual settings."
+    },
+    {
+        "name": "Portable Charcoal Grill",
+        "description": "Compact charcoal grill perfect for tailgating."
+    },
+    {
+        "name": "Customizable Wall Calendar",
+        "description": "Personalize your calendar with photos and special dates."
+    },
+    {
+        "name": "Natural Peanut Butter",
+        "description": "Creamy peanut butter with no added sugar or oils."
+    },
+    {
+        "name": "Frozen Spinach",
+        "description": "Chopped and frozen spinach, ideal for cooking and smoothies."
+    },
+    {
+        "name": "Electric Air Pump",
+        "description": "Fast and convenient air pump for inflating toys and furniture."
+    },
+    {
+        "name": "Garlic & Herb Goat Cheese",
+        "description": "Creamy goat cheese infused with herbs and garlic, perfect for spreading on crackers."
+    },
+    {
+        "name": "Vegetable Quinoa Bowl",
+        "description": "A frozen meal featuring quinoa and mixed vegetables, ready to heat and eat."
+    },
+    {
+        "name": "Yoga Wheel",
+        "description": "Supportive yoga wheel for deep stretching and balance."
+    },
+    {
+        "name": "Wine Glasses",
+        "description": "Set of elegant wine glasses for special occasions."
+    },
+    {
+        "name": "Oven Mitts with Pocket",
+        "description": "Silicone oven mitts designed for safe cooking and baking."
+    },
+    {
+        "name": "Organic Baby Carrots",
+        "description": "Fresh and crunchy baby carrots ready for snacking."
+    },
+    {
+        "name": "Chicken Salad Kit",
+        "description": "All-in-one kit for making delicious chicken salad."
+    },
+    {
+        "name": "Bamboo Utensil Set",
+        "description": "Sustainable bamboo utensils for cooking and serving."
+    },
+    {
+        "name": "Reusable Coffee Filter",
+        "description": "Eco-friendly coffee filter for brewing."
+    },
+    {
+        "name": "Reusable Snack Bags",
+        "description": "Eco-friendly reusable bags for snacks."
+    },
+    {
+        "name": "Pasta Maker Machine",
+        "description": "Manual pasta maker for creating fresh pasta at home."
+    },
+    {
+        "name": "Smart LED Light Strip",
+        "description": "Customizable RGB LED light strip, perfect for mood lighting."
+    },
+    {
+        "name": "Peach Mango Smoothie",
+        "description": "A refreshing blend of peaches and mangoes for a delicious smoothie."
+    },
+    {
+        "name": "Organic Baby Spinach",
+        "description": "Fresh baby spinach leaves, great for salads and smoothies."
+    },
+    {
+        "name": "Portable Speakers",
+        "description": "Bluetooth speakers with excellent sound quality."
+    },
+    {
+        "name": "Coffee Making Kit",
+        "description": "Complete set to brew coffee with different methods."
+    },
+    {
+        "name": "Fitness Tracker Band",
+        "description": "Affordable fitness tracker with heart rate monitor."
+    },
+    {
+        "name": "Ginger Turmeric Latte Mix",
+        "description": "A warming blend of ginger and turmeric for lattes."
+    },
+    {
+        "name": "Laptop Sleeve",
+        "description": "Padded laptop sleeve for protection against scratches."
+    },
+    {
+        "name": "Dark Chocolate Tart",
+        "description": "Decadent tart made with rich dark chocolate."
+    },
+    {
+        "name": "Coconut Cream Pie Yogurt",
+        "description": "Yogurt with the flavors of coconut cream pie, nice and indulgent."
+    },
+    {
+        "name": "Mobile Workbench",
+        "description": "Sturdy mobile workbench with storage options."
+    },
+    {
+        "name": "High-Waisted Skirt",
+        "description": "Chic high-waisted skirt, perfect for professional or casual settings."
+    },
+    {
+        "name": "Chicken Salad Kit",
+        "description": "All-in-one kit for making delicious chicken salad."
+    },
+    {
+        "name": "Ski Goggles",
+        "description": "Anti-fog ski goggles for winter sports."
+    },
+    {
+        "name": "Mini Electric Kettle",
+        "description": "Quick boiling kettle for small kitchens and dorms."
+    },
+    {
+        "name": "Balsamic Glaze",
+        "description": "Sweet and tangy balsamic reduction for drizzling."
+    },
+    {
+        "name": "Crispy Kale Chips",
+        "description": "Baked kale chips seasoned for a healthy, crunchy snack."
+    },
+    {
+        "name": "Multifunctional Baby Bottle Warmer",
+        "description": "Warmer for heating baby bottles and food jars."
+    },
+    {
+        "name": "Cotton Pajama Set",
+        "description": "Soft cotton pajama set for cozy nights in."
+    },
+    {
+        "name": "Fitness Resistance Bands Set",
+        "description": "Variety of bands suitable for all fitness levels."
+    },
+    {
+        "name": "Vegan Taco Seasoning",
+        "description": "Spice blend for creating flavorful vegan taco filling."
+    },
+    {
+        "name": "Herbed Goat Cheese",
+        "description": "Tangy goat cheese infused with herbs, perfect for snacking."
+    },
+    {
+        "name": "Sporty Cap",
+        "description": "Stylish cap to complete your athletic look."
+    },
+    {
+        "name": "Magnetic Phone Car Mount",
+        "description": "Strong magnetic holder for smartphones in cars."
+    },
+    {
+        "name": "Beach Cover-Up",
+        "description": "Lightweight cover-up perfect for the beach, with a breezy design."
+    },
+    {
+        "name": "Almond Butter",
+        "description": "Creamy almond butter made from roasted almonds."
+    },
+    {
+        "name": "Honey Sesame Cashews",
+        "description": "Roasted cashews coated in honey and sesame seeds for a sweet treat."
+    },
+    {
+        "name": "Crispy Onion Rings",
+        "description": "Frozen onion rings, crispy and ready to bake."
+    },
+    {
+        "name": "Whole Wheat Pasta",
+        "description": "Nutritious and hearty pasta made from whole wheat flour."
+    },
+    {
+        "name": "Fire Roasted Salsa",
+        "description": "Salsa made with fire-roasted tomatoes for an authentic flavor."
+    },
+    {
+        "name": "Sunflower Seeds",
+        "description": "Salted sunflower seeds perfect for snacking."
+    },
+    {
+        "name": "Home Delivery Food Journal",
+        "description": "Track your meals and nutrition with this handy food journal."
+    },
+    {
+        "name": "Teriyaki Sauce",
+        "description": "Sweet and savory sauce for marinating and glazing meats or vegetables."
+    },
+    {
+        "name": "Pet Travel Bowl",
+        "description": "Collapsible travel bowl for pets on the go."
+    },
+    {
+        "name": "Magnetic Phone Car Mount",
+        "description": "Strong magnetic holder for smartphones in cars."
+    },
+    {
+        "name": "Organic Quinoa Salad",
+        "description": "A refreshing salad made with quinoa and seasonal veggies."
+    },
+    {
+        "name": "Oven-Baked Parmesan Zucchini",
+        "description": "Frozen zucchini slices coated in parmesan cheese, perfect for baking or frying."
+    },
+    {
+        "name": "Portable Solar Camp Shower",
+        "description": "Portable solar shower for camping and outdoor use."
+    },
+    {
+        "name": "Portable Hand Warmer",
+        "description": "Rechargeable hand warmer for cold weather comfort."
+    },
+    {
+        "name": "Set of Herb Garden Markers",
+        "description": "Stylish markers for labeling your indoor garden plants."
+    },
+    {
+        "name": "Picnic Blanket",
+        "description": "Waterproof picnic blanket for outdoor fun."
+    },
+    {
+        "name": "Classic Cheesecake Mix",
+        "description": "A simple, no-bake cheesecake mix to create your own delicious cheesecake."
+    },
+    {
+        "name": "Paprika",
+        "description": "Rich and sweet paprika spice for seasoning."
+    },
+    {
+        "name": "Natural Soy Candles",
+        "description": "Eco-friendly soy candles with a variety of scents."
+    },
+    {
+        "name": "Jigsaw Puzzle",
+        "description": "500-piece jigsaw puzzle featuring beautiful scenery."
+    },
+    {
+        "name": "Gluten-Free Biscuits",
+        "description": "Fluffy biscuits made without gluten"
+    },
+    {
+        "name": "Cinnamon Ice Cream",
+        "description": "Creamy ice cream with a warm cinnamon flavor, perfect for dessert."
+    },
+    {
+        "name": "Honey Butter Popcorn",
+        "description": "Light and fluffy popcorn coated in sweet honey butter."
+    },
+    {
+        "name": "Video Camera",
+        "description": "1080p HD video camera with night vision."
+    },
+    {
+        "name": "Herb Drying Rack",
+        "description": "Mesh drying rack for preserving herbs and flowers."
+    },
+    {
+        "name": "Chickpea Salad",
+        "description": "A ready-to-eat salad made with chickpeas and veggies."
+    },
+    {
+        "name": "Cinnamon Sugar Tortilla Chips",
+        "description": "Crispy chips with a sweet twist, perfect for dipping."
+    },
+    {
+        "name": "Apple Cinnamon Granola",
+        "description": "A wholesome granola with bits of apple and a touch of cinnamon."
+    },
+    {
+        "name": "Two-Tier Fruit Basket",
+        "description": "Stylish fruit basket for kitchen or dining room."
+    },
+    {
+        "name": "Spinach Artichoke Dip",
+        "description": "A delicious creamy dip featuring spinach and artichokes, perfect for parties."
+    },
+    {
+        "name": "Lemon Herb Chicken",
+        "description": "Marinated chicken grilled with lemon and herbs."
+    },
+    {
+        "name": "Microfiber Cleaning Cloths",
+        "description": "Pack of ultra-soft microfiber cloths for cleaning."
+    },
+    {
+        "name": "Peanut Butter Banana Smoothie Mix",
+        "description": "Smoothie mix combining peanut butter and banana, great for a quick breakfast."
+    },
+    {
+        "name": "Wireless Induction Charger",
+        "description": "Qi-certified charger for fast wireless charging of smartphones."
+    },
+    {
+        "name": "Key Finder",
+        "description": "Bluetooth-enabled key tracker to find lost items easily."
+    },
+    {
+        "name": "Chili Lime Corn Chips",
+        "description": "Crunchy corn chips flavored with chili and lime for a zesty kick."
+    },
+    {
+        "name": "Dog Collar",
+        "description": "Adjustable dog collar with personalized tags."
+    },
+    {
+        "name": "Almond Milk Yogurt",
+        "description": "Creamy yogurt made from almond milk, vegan-friendly."
+    },
+    {
+        "name": "Glass Tea Pot",
+        "description": "Elegant glass teapot for brewing loose tea."
+    },
+    {
+        "name": "Hibiscus Herbal Tea",
+        "description": "Floral and refreshing herbal tea, great hot or iced."
+    },
+    {
+        "name": "Steak Seasoning Rub",
+        "description": "A blend of spices perfect for seasoning steak."
+    },
+    {
+        "name": "Wireless Earbuds",
+        "description": "True wireless earbuds with touch control."
+    }
+]
