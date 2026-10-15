@@ -54,3 +54,8 @@ jobs:
         else
           echo "No state changes detected, skipping commit"
         fi
+        
+        import {
+          to = aws_security_group.server_sg
+          id = "server-allow-http" 
+        }
