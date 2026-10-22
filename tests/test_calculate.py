@@ -1,6 +1,6 @@
-from fastapi.testclient import TestClient
 import unittest
 from ArithmeticCalculator import calculate
+
 
 class UnitTests(unittest.TestCase):
     def test_example(self):
@@ -55,6 +55,7 @@ class UnitTests(unittest.TestCase):
         }
         result = calculate(data)
         self.assertEqual(result, 0)
+
 
 if __name__ == '__main__':
     unittest.main()
