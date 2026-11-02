@@ -15,3 +15,9 @@ variable "instance_type" {
   type        = string
   default     = "t2.micro"		# Standard free tier type
 }
+
+variable "app_port" {
+ description  = "The HTTP binding port"
+ type         = number
+ default      = 8000
+}
