@@ -59,7 +59,7 @@ resource "aws_instance" "server" {
   vpc_security_group_ids = [aws_security_group.server_sg.id]
   
  # Inject startup scripts
- user_data = file("user_data.tpl", {
+ user_data = templatefile("user_data.tpl", {
     app_port = var.app_port
   }) 
 
