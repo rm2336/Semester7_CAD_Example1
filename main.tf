@@ -68,15 +68,25 @@ resource "aws_instance" "server" {
   }
 }
 
+# Fetch the elastic IP address, which should be manually created
+# and has a tag with key=name and value=my_eip
+data "aws_eip" "server_eip" {
+  filter {
+    name = "tag:name"
+    values = ["my_eip"]
+  }
+}
+
 # Creates an elastic IP address and associates it with the backend server
-resource "aws_eip" "server_eip" {
-  instance = aws_instance.server.id
-  domain = "vpc"
+resource "aws_eip_association" "eip_assoc" {
+  instance_id = aws_instance.server.id
+  allocation_id = data.aws_eip.server_eip.id
 }
 
 # Output the public IP address
 output "public_ip" {
-  value       = "http://${aws_eip.server_eip.public_ip}:${var.app_port}/"
+  #value       = "http://${aws_eip.server_eip.public_ip}:${var.app_port}/"
+  value        = "http://${aws_eip_association.eip_assoc.public_ip}:${var.app_port}/"
   description = "The public IP of your application"
 }
 
