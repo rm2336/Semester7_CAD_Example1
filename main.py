@@ -21,7 +21,7 @@ app = FastAPI()
 #https://fastapi.tiangolo.com/tutorial/cors/#use-corsmiddleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"], # React's default port
+    allow_origins=["*"], # React's default port
     allow_credentials=True,
     allow_methods=["*"], # Allow all HTTP methods
     allow_headers=["*"] # Allow all headers
