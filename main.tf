@@ -11,6 +11,10 @@ provider "aws" {
   region = var.aws_region
 }
 
+data "aws_db_instance" "rds_database" {
+  db_instance_identifier = "database-1"
+}
+
 # Fetch the EC2 Instance Connect IP range
 data "aws_ip_ranges" "ec2_instance_connect" {
   services = ["EC2_INSTANCE_CONNECT"]
@@ -56,11 +60,18 @@ resource "aws_instance" "server" {
   ami           = data.aws_ssm_parameter.ubuntu_ami.value
   instance_type = var.instance_type
 
-  vpc_security_group_ids = [aws_security_group.server_sg.id]
+  vpc_security_group_ids = [
+    aws_security_group.server_sg.id,
+    data.aws_db_instance.rds_database.vpc_security_groups[0]
+  ]
   
  # Inject startup scripts
  user_data = templatefile("user_data.tpl", {
     app_port = var.app_port
+    db_user = data.aws_db_instance.rds_database.master_username
+    db_pwd = var.db_pwd
+    db_host = data.aws_db_instance.rds_database.address
+    db_port = data.aws_db_instance.rds_database.port
   }) 
 
   tags = {
