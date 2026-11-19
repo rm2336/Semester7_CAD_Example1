@@ -12,7 +12,7 @@ cd Semester7_CAD_Example1
 pip install -r requirements.txt
 
 # Connection string
-export DATABASE_URL = "postgresql+psycopg2://${db_user}:${db_pwd}@${db_host}:${db_port}"
+export DATABASE_URL="postgresql+psycopg2://${db_user}:${db_pwd}@${db_host}:${db_port}"
 
 # Run Uvicorn on port 80 bound to all interfaces
 uvicorn main:app --host 0.0.0.0 --port ${app_port} > uvicorn.log 2>&1 &
