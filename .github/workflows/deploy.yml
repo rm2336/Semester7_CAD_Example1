@@ -31,6 +31,7 @@ jobs:
         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         AWS_SESSION_TOKEN: ${{ secrets.AWS_SESSION_TOKEN }}
+        TF_VAR_db_pwd: ${{ secrets.DB_PASSWORD }}
 
       # Build or change infrastructure according to Terraform configuration files
     - name: Terraform Apply
@@ -40,6 +41,7 @@ jobs:
         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         AWS_SESSION_TOKEN: ${{ secrets.AWS_SESSION_TOKEN }}
+        TF_VAR_db_pwd: ${{ secrets.DB_PASSWORD }}
 
     - name: Save current Terraform deployment state (if file has changed)
       if: hashFiles(env.STATE_FILE) != ''
