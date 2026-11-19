@@ -21,3 +21,8 @@ variable "app_port" {
  type         = number
  default      = 8000
 }
+
+variable "db_pwd" {
+ description  = "RDS root user password"
+ type         = string
+ default      = ${{secrets.DB_PASSWORD}}
