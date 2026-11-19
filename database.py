@@ -11,11 +11,11 @@ from os import environ
 #    SQLALCHEMY_DATABASE_URL, connect_args={"check_same_thread": False}
 #)
 
-# Create a SessionLocal class for database sessions
-#SessionLocal = sessionmaker(autocommit = False, autoflush = False, bind = engine)
-
-# Create a Base class for our models
-#Base = declarative_base()
-
 # Database URL for Postgres
 engine = create_engine(environ["DATABASE_URL"])
+
+# Create a SessionLocal class for database sessions
+SessionLocal = sessionmaker(autocommit = False, autoflush = False, bind = engine)
+
+# Create a Base class for our models
+Base = declarative_base()
